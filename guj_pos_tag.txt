@@ -1,0 +1,508 @@
+﻿﻿ID	Value
+htd1	સપ્તપુરીઓના\N-NNP દર્શનથી\N_NN મળે\V_VM છે\V_VAUX મોક્ષ \N_NN.\RD_PUNC
+htd2	હિંદુધર્મમાં\N_NN તીર્થનું\N_NN ઘણું\QT_QTF મહત્ત્વ\JJ છે\V_VAUX  .\RD_PUNC
+htd3	આમ\RP_RPD તો\RP_RPD દરેક\DM_DMD તીર્થ\N_NN મહાન\JJ અને\CC_CCD મહત્ત્વપૂર્ણ\JJ છે\V_VAUX ,\RD_PUNC પણ\CC_CCD સાત\QT_QTC સ્થાનોની\N_NN મહત્તા\N_NN અને\CC_CCD માન્યતા\N_NN છે\V_VAUX .\RD_PUNC
+htd4	આ\DM_DMD સાતેય\QT_QTC ઘર્મસ્થળ\N_NN સાત\QT_QTC નગર\N_NN અથવા\CC_CCD સપ્તપુરીઓના\N-NNP સ્વરૂપે\N_NN ગ્રથોમાં\N_NN વર્ણવાયેલા\V_VM છે\V_VAUX  .\RD_PUNC
+htd5	એમ\RP_RPD કહેવાય\V_VM કે\CC_CCS ચાતુર્માસમાં\N_NN આ\DM_DMD સપ્તપુરીઓના\N-NNP દર્શન\N_NN મોક્ષ\N_NN આપનાર\V_VM હોય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd6	એનું\PR_PRL નામ\N_NN બનારસ\N-NNP અથવા\CC_CCD વારાણસી\N-NNP પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd7	ગંગાકિનારે\N-NNP આ\DM_DMD ભગવાન\N_NN શંકરની\N-NNP પ્રસિદ્ધ\JJ પુરી\N-NNP છે\V_VAUX  .\RD_PUNC
+htd8	મુગલસરાયથી\N-NNP અમૃતસર\N-NNP અને\CC_CCD દહેરાદૂન\N-NNP જનારી\V_VM મુખ્ય\JJ રેલવેલાઈન\N_NN પર\PSP મુગલસરાય\N-NNP સ્ટેશનથી\N_NN ઈલના\N_NN અંતરે\N_NN કાશી\N-NNP અને\CC_CCD એનાથી\PR_PRL માઈલ\N_NN આગળ\N_NST બનારસ\N-NNP છાવણી\N_NN સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd9	અલ્હાબાદના\N-NNP પ્રયાગસ્ટેશનથી\N-NNP પણ\CC_CCD એક\QT_QTC સીધી\JJ લાઈન\N_NN કાશી\N-NNP થઈને\V_VM બનારસ\N-NNP છાવણી\N-NNP સુધી\RP_RPD જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd10	પૂર્વોત્તર\N_NST રેલવેની\N_NN એક\QT_QTC લાઈન\N_NN ભટનીથી\N-NNP અને\CC_CCD બીજી\QT_QTO છપરાથી\N-NNP અલ્હાબાદશહેર\N-NNP સુધી\RP_RPD જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd11	આ\DM_DMD માર્ગે\N_NN પણ\CC_CCD બનારસ\N-NNP શહેર\N_NN થઈને\V_VM છાવણી\N-NNP જઈ\V_VM શકાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd12	પતિતપાવની\JJ ગંગા\N-NNP હરિદ્વારમાં\N-NNP પર્વતીયપ્રદેશ\N_NN છોડીને\V_VM સમથળભૂમિમાં\N_NN પ્રવેશ\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd13	તેથી\RP_RPD જ\RP_RPD હરદ્વારને\N-NNP ગંગાદ્વાર\N-NNP પણ\CC_CCD કહે\V_VM છે\V_VAUX  .\RD_PUNC
+htd14	હરદ્વારમાં\N-NNP દરરોજ\N_NST સાંજે\N_NST થતી\V_VM ગંગામાની\N-NNP આરતીના\N_NN સમયે\N_NN શ્રદ્ધાળુઓની\N_NN ભીડ\N_NN થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd15	ગંગાનદી\N-NNP પર\PSP તરતા\V_VM દીવડાંઓનું\N_NN દ્રશ્ય\N_NN જોતાં\V_VM જ\RP_RPD અનુભવાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd16	ઉત્તરરેલવેના\N_NN મુગલસરાયથી\N-NNP અમૃતસર\N-NNP જતી\V_VM મુખ્ય\JJ લાઈન\N_NN પર\PSP સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd17	લક્સરથી\N-NNP એક\QT_QTC લાઈન\N_NN હરિદ્વાર\N-NNP સુધી\RP_RPD જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd18	પ્રાચીન\JJ સમયમાં\N_NN પિતામહ\JJ બ્રહ્માજીએ\N-NNP કાંચીમાં\N-NNP મા\N_NN ભગવતીના\N-NNP દર્શન\N_NN કરવા\V_VM કઠોર\JJ તપ\N_NN કર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+htd19	ત્યારે\N_NST મહાલક્ષ્મી\N-NNP હાથમાં\N_NN કમળ\N_NN ધારણ\V_VM કરીને\V_VM તેમની\PR_PRL સમ્મુખ\PSP પ્રગટ\V_VM થયા\V_VAUX હતાં\V_VAUX .\RD_PUNC
+htd20	દક્ષિણરેલવેના\N_NN ચેન્નઈ\N-NNP સ્ટેશનથી\N_NN ધનુષ્કોટિ\N-NNP જતી\V_VM મુખ્ય\JJ લાઈન\N_NN પર\PSP ચેન્નઈથી\N-NNP માઈલના\N_NN અંતરે\N_NN ચેંગલપટ\N-NNP સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd21	ચેંગલપટ\N_NNP સ્ટેશનથી\N_NN એક\QT_QTC લાઈન\N_NN અરકોનમ\N-NNP સુધી\RP_RPD જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd22	ચેંગલપટ\N_NNP સ્ટેશનથી\N_NN અરકોનમ\N_NN જતી\N_NN લાઈન\N_NN પર\PSP કાંજીવરમ\N-NNP સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd23	સ્ટેશનનું\N_NN નામ\N_NN ભલે\RP_RPD કાંજીવરમ\N-NNP ચોક્કસ\RP_RPD છે\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD નગરનું\N_NN નામ\N_NN કાંચીપુરમ\N-NNP છે\V_VAUX  .\RD_PUNC
+htd24	અયોધ્યા\N-NNP ભગવાન\N_NN શ્રીરામના\N-NNP અવતારની\N_NN પવિત્ર\JJ ભૂમિ\N_NN છે\V_VAUX  .\RD_PUNC
+htd25	અયોધ્યાનગરી\N-NNP પવિત્ર\JJ સરયૂ\N-NNP નદીના\N_NN કાંઠે\N_NN વસેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd26	ઉત્તરરેલવેની\N_NN મુગલસરાય\N-NNP લખનઉ\N-NNP લાઈનના\N_NN મુગલસરાય\N-NNP સ્ટેશનથી\N_NN ૧૨૮\N_NN માઈલના\N_NN અંતરે\N_NN અયોધ્યા\N-NNP સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd27	શિપ્રા\N-NNP અથવા\CC_CCD ક્ષિપ્રા\N-NNP નદીના\N_NN કાંઠે\N_NN વસેલી\V_VM મહાકાલીની\N-NNP આ\DM_DMD ઉજ્જૈન\N-NNP નગરી\N_NN પતિતપાવની\JJ છે\V_VAUX  .\RD_PUNC
+htd28	કહેવાય\V_VM છે\V_VAUX કે\CC_CCS ઉજ્જૈનમાં\N-NNP મહાકાલને\N-NNP પ્રણામ\N_NN કરી\V_VM લીધા\V_VM પછી\PSP મૃત્યુની\N_NN ચિંતા\N_NN રહેતી\V_VM નથી\RP_NEG .\RD_PUNC
+htd29	મધ્યરેલવેની\N_NN મુંબઈ\N_NNP ભોપાલ\N_NNP દિલ્હીલાઈનના\N-NNP ભોપાલ\N-NNP સ્ટેશનથી\N_NN એક\QT_QTC લાઈન\N_NN ઉજ્જૈન\N-NNP જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd30	પશ્ચિમરેલવેની\N_NN મુંબઈ\N_NNP કોટા\N_NNP દિલ્હીલાઈન\N-NNP પર\PSP નાગદા\N-NNP સ્ટેશનથી\N_NNP એક\QT_QTC મોટી\JJ લાઈન\N_NN પણ\CC_CCD ઉજ્જૈન\N-NNP સુધી\RP_RPD ગઇ\V_VM છે\V_VAUX  .\RD_PUNC
+htd31	આ\DM_DMD લાઈનના\N_NN મહૂ\N-NNP સ્ટેશનથી\N_NNP પણ\CC_CCD એક\QT_QTC લાઈન\N_NN ઉજ્જૈન\N-NNP સુધી\RP_RPD જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd32	દ્વારકા\N-NNP ચાર\QT_QTC ધામોમાંનું\N_NN એક\QT_QTC ધામ\N_NN પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd33	ભગવાન\N_NN કૃષ્ણે\N-NNP એને\PR_PRL સમુદ્ર\N_NN મધ્યે\PSP વિશેષ\JJ રૂપે\N_NN નિર્માણ\N_NN કર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+htd34	પશ્ચિમરેલવેની\N_NN સુરેન્દ્રનગર\N_NNP ઓખા\N-NNP પોર્ટલાઈન\N_NN પર\PSP આવેલ\V_VM આ\DM_DMD નગર\N_NN સમુદ્રકિનારાનું\N_NN સ્ટેશન\N_NN છે\V_VAUX  .\RD_PUNC
+htd35	યમુના\N-NNP કિનારે\N_NN ભગવાન\N_NN શ્રીકૃષ્ણની\N-NNP અવતારભૂમિનું\N_NN આ\DM_DMD પવિત્ર\JJ નગર\N_NN મથુરા\N-NNP છે\V_VAUX  .\RD_PUNC
+htd36	પૂર્વોત્તરરેલવેની\N_NN આગરા\N-NNP ફોર્ટથી\N_NN ગોરખપુર\N-NNP જતી\V_VM લાઈન\N_NN તથા\CC_CCD પશ્ચિમ\N_NST રેલવેની\N_NN મુંબઈ\N_NNP કોટા\N_NNP દિલ્હી\N-NNP લાઈન\N_NN પર\PSP મથુરા\N-NNP સ્ટેશન\N_NNP છે\V_VAUX  .\RD_PUNC
+htd37	ગઢમુક્તેશ્વર\N-NNP હિંદુઓનું\N_NN પવિત્ર\JJ યાત્રાધામ\N_NN છે\V_VAUX  .\RD_PUNC
+htd38	ચાલો\V_VM ,\RD_PUNC ગઢ\N_NN મુક્તેશ્વરના\N-NNP ગંગા\N-NNP મેળામાં\N_NN .\RD_PUNC
+htd39	ગાજિયાબાદ\N-NNP જિલ્લાના\N_NN ગઢમુક્તેશ્વરમાં\N-NNP પતિતપાવની\JJ ગંગાનદીના\N-NNP કિનારે\N_NN દર\RP_INTF વર્ષે\N_NN કાર્તિક\N-NNP પૂર્ણિમા\N_NNP અવસરે\N_NN ભરાતા\V_VM ઉત્તર\N_NST ભારતના\N-NNP પ્રસિદ્ધ\JJ અને\CC_CCD પ્રાચીન\JJ ધાર્મિક\JJ મેળાનો\N_NN ઇતિહાસ\N_NN લગભગ\RP_RPD પાંચ\QT_QTC હજાર\QT_QTC વર્ષ\N_NN જૂનો\JJ છે\V_VAUX  .\RD_PUNC
+htd40	આ\DM_DMD વખતે\N_NN પણ\CC_CCD ગઢમુક્તેશ્વરના\N-NNP મેળામાં\N_NN માનવમહેરામણ\N_NN ઉમટ્યો\V_VM છે\V_VAUX મુખ્યસ્નાન\N_NN માટે\PSP પણ\CC_CCD શ્રદ્ધાળુઓની\N_NN ખૂબ\QT_QTC ભીડ\N_NN થઈ\V_VM રહી\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd41	મુખ્યસ્નાન\N_NN નવેમ્બરે\N-NNP છે\V_VAUX  .\RD_PUNC
+htd42	ગઢમુક્તેશ્વર\N-NNP વિશે\PSP કહેવાય\V_VM છે\V_VAUX કે\CC_CCS મહાભારતના\N-NNP વિનાશક\JJ યુદ્ધ\N_NN બાદ\PSP યુદ્ધની\N_NN ભયાનકતા\N_NN અને\CC_CCD નરસંહાર\N_NN જોઈને\V_VM યોગીરાજ\JJ શ્રીકૃષ્ણ\N-NNP ,\RD_PUNC ધર્મરાજ\JJ યુધિષ્ઠિર\N-NNP અને\CC_CCD અર્જુનના\N-NNP મનમાં\N_NN ભારે\RP_INTF વિષાદ\N_NN થયો\V_VM .\RD_PUNC
+htd43	તેઓ\PR_PRP એ\PR_PRP વિચારવા\V_VM લાગ્યા\V_VAUX કે\CC_CCS યુદ્ધમાં\N_NN માર્યા\V_VM ગયેલા\V_VAUX અસંખ્ય\QT_QTF કુટુંબીજનો\N_NN ,\RD_PUNC ભાઈઓ\N_NN અને\CC_CCD નિર્દોષ\RB લોકોના\N_NN આત્માની\N_NN શાંતિ\N_NN માટે\PSP શું\DM_DMI ઉપાય\N_NN કે\CC_CCS વિધિ\N_NN કરવો\V_VM જોઈએ\V_VAUX .\RD_PUNC
+htd44	ત્યારે\N_NST સૌએ\PR_PRP એક\QT_QTC મતે\N_NN નિર્ણય\N_NN કર્યો\V_VM .\RD_PUNC
+htd45	ખાંડવવનમાં\N-NNP ભગવાન\N_NN પરશુરામ\N-NNP દ્વારા\PSP સ્થાપિત\JJ શિવ\N-NNP વલ્લભપુર\N-NNP નામના\N_NN સ્થળે\N_NN મુક્તેશ્વર\N-NNP મહાદેવની\N-NNP પૂજા\N_NN ,\RD_PUNC યજ્ઞ\N_NN તથા\CC_CCD પતિતપાવની\JJ ગંગા\N-NNP નદીમાં\N_NN સ્નાન\N_NN કરીને\V_VM ત્યાં\N_NST પિંડદાન\N_NN કરવાથી\V_VM સઘળાં\QT_QTF વિધિ-વિધાન\N_NN પુરા\V_VM થઈ\V_VM જશે\V_VAUX .\RD_PUNC
+htd46	યાદ\N_NN રાખો\V_VM કે\CC_CCS શિવવલ્લભપુરને\N-NNP જ\RP_RPD હવે\N_NST ગઢમુક્તેશ્વર\N-NNP નામથી\N_NN ઓળખવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd47	ભગવાન\N_NN રામના\N-NNP પૂર્વજ\N_NN મહારાજ\N_NN શિબિએ\N-NNP પોતાનો\PR_PRF વાનપ્રસ્થાશ્રમ\N_NN ગઢમુક્તેશ્વરમાં\N-NNP જ\RP_RPD વીતાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+htd48	મહારાજ\N_NN શિબિએ\N-NNP ભગવાન\N_NN પરશુરામ\N-NNP પાસે\PSP અહીં\N_NST શિવમંદિરની\N_NN સ્થાપના\N_NN કરાવી\V_VM હતી\V_VAUX .\RD_PUNC
+htd49	એ\DM_DMD સમયે\N_NN ગઢમુક્તેશ્વર\N-NNP વલ્લભસંપ્રદાયનું\N-NNP મુખ્ય\JJ કેન્દ્ર\N_NN હતું\V_VM .\RD_PUNC
+htd50	ગઢમુક્તેશ્વરનું\N-NNP નામ\N_NN શિવ\N-NNP વલ્લભપુર\N-NNP પડ્યું\V_VM .\RD_PUNC
+htd51	ગઢમુક્તેશ્વરનું\N-NNP વર્ણન\N_NN શિવપુરાણમાં\N-NNP મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd52	અગિયારસથી\N_NN ચૌદશ\N_NN સુધી\RP_RPD ગઢમુક્તેશ્વરમાં\N-NNP મહાભારતના\N-NNP યુદ્ધમાં\N_NN માર્યા\V_VM ગયેલા\V_VAUX બધાં\QT_QTF લોકોના\N_NN આત્માની\N_NN શાંતિ\N_NN માટે\PSP યજ્ઞ\N_NN કરવામાં\V_VM આવ્યો\V_VAUX .\RD_PUNC
+htd53	ચૌદશની\N_NN સંધ્યાએ\N_NST યજ્ઞ\N_NN પૂરો\V_VM થતી\V_VM વખતે\N_NN આત્માઓને\N_NN ગંગામાં\N-NNP દીપદાન\N_NN કરીને\V_VM શ્રદ્ધાંજલિ\N_NN આપવામાં\V_VM આવી\V_VAUX .\RD_PUNC
+htd54	બીજા\QT_QTO દિવસે\N_NN પૂનમની\N-NNP સવારે\N_NN બધાંએ\PR_PRP ગંગાસ્નાન\N_NN કરીને\V_VM પૂજા-અર્ચના\N_NN ,\RD_PUNC કથા\N_NN વગેરે\RP_RPD કર્યાં\V_VM .\RD_PUNC
+htd55	દર\JJ વર્ષે\N_NN લાખોની\QT_QTF સંખ્યામાં\N_NN શ્રદ્ધાળુ\N_NN ગઢમુક્તેશ્વરમાં\N-NNP કાર્તિકપૂનમના\N-NNP દિવસે\N_NN અપવિત્રતા\N_NN વિનાશની\JJ ,\RD_PUNC પાપહારિણી\JJ ગંગામાં\N-NNP સ્નાન\N_NN કરીને\V_VM અને\CC_CCD પોતાના\PR_PRF સ્વજનોના\N_NN આત્માની\N_NN શાંતિ\N_NN માટે\PSP અહીં\N_NST દીપદાન\N_NN કરવા\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd56	ચૌદશની\N_NN સાંજે\N_NN અસંખ્ય\QT_QTF લોકો\N_NN પોતાના\PR_PRF સ્વજનોને\N_NN શ્રદ્ધાંજલિ\N_NN આપવા\V_VM ગંગામાં\N-NNP દીપદાન\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd57	એ\DM_DMD સમયે\N_NN ગંગાના\N-NNP પ્રવાહ\N_NN સાથે\PSP વહેતાં\V_VM દીવડાંઓનું\N_NN દ્રશ્ય\N_NN અત્યંત\RP_INTF શાંતિદાયક\JJ અને\CC_CCD મનોહર\JJ લાગે\V_VM છે\V_VAUX  .\RD_PUNC
+htd58	ગઢમુક્તેશ્વરમાં\N-NNP ધાર્મિક\JJ મહત્ત્વવાળાં\N_NN ઘણાં\QT_QTF સ્થળો\N_NN છે\V_VAUX  .\RD_PUNC જેમકે\RP_RPD નહૂષ\N-NNP કૂવો\N-NNP ,\RD_PUNC મુક્તેશ્વર\N-NNP મહાદેવનું\N-NNP મંદિર\N_NN ,\RD_PUNC બદ્રીનાથમંદિર\N-NNP વગેરે\RP_RPD .\RD_PUNC
+htd59	પરંપરાં\N_NN છે\V_VAUX કે\CC_CCS બદ્રીનાથમંદિર\N-NNP માત્ર\RP_RPD આરતીના\N_NN સમયે\N_NN જ\RP_RPD ખોલવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd60	આ\DM_DMD મંદિર\N_NN વર્ષમાં\N_NN માત્ર\RP_RPD એકજ\QT_QTC વાર\N_NN અખાત્રીજે\N-NNP પરશુરામ\N-NNP જયંતી\N_NN વખતે\N_NN આખો\QT_QTF દિવસ\N_NN દર્શનાર્થિયો\N_NN માટે\PSP ખોલવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd61	મુક્તેશ્વર\N-NNP મહાદેવમંદિરની\N_NN સામે\PSP વિશાળ\JJ રેતાળ\JJ મેદાન\N_NN છે\V_VAUX ,\RD_PUNC જેને\PR_PRL મીરાંબાઈની\N-NNP રેતીના\N_NN નામથી\N_NN ઓળખવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd62	એવી\RP_RPD માન્યતા\N_NNછે\V_VAUX કે\CC_CCS એકવાર\N_NN મીરાંબાઈ\N-NNP અહીં\N_NST ગંગાસ્નાન\N-NNP માટે\PSP આવ્યાં\V_VM હતાં \V_VAUX.\RD_PUNC
+htd63	કહે\V_VM છે\V_VAUX કે\CC_CCS એકવાર\N_NN પાર્વતીજીએ\N-NNP શંકરજીને\N-NNP પ્રશ્ન\N_NN કર્યો\V_VM .\RD_PUNC
+htd64	પ્રભુ\N_NN એવો\RP_RPD કોઈ\DM_DMI ઉપાય\N_NN કે\CC_CCD સ્થળ\N_NN બતાવો\V_VM ,\RD_PUNC જેનાથી\PR_PRL સંસારમાં\N_NN અનેક\QT_QTF વ્યાધિઓ\N_NN અને\CC_CCD પાપોથી\N_NN પીડિત\JJ જીવને\N_NN મુક્તિ\N_NN મળે\V_VM .\RD_PUNC
+htd65	તેઓ\PR_PRL એવું\RP_RPD કયું\DM_DMI કર્મ\N_NN કરે\V_VM ,\RD_PUNC જેનાથી\PR_PRL એમને\PR_PRL તમારો\PR_PRP સ્નેહ\N_NN મળે\V_VM .\RD_PUNC
+htd66	એ\DM_DMD સંદર્ભમાં\N_NN શંકરજીએ\N-NNP કહ્યું\V_VM કે\CC_CCS હે\RP_RPD દેવી\N_NN ,\RD_PUNC સતયુગમાં\N_NN બધા\QT_QTF તીર્થ\N_NN પુણ્યનું\N_NN ફળ\N_NN આપે\V_VM છે\V_VAUX ,\RD_PUNC ત્રેતામાં\N_NN પુષ્કર\N-NNP ,\RD_PUNC દ્વાપરમાં\N_NN કુરુક્ષેત્ર\N_NN તીર્થ\N_NN પુણ્યનું\N_NN ફળ\N_NN આપે\V_VM છે\V_VAUX અને\CC_CCD કળિયુગમાં\N_NN માત્ર\RP_RPD ગંગાસ્નાનથી\N-NNP જ\RP_RPD પુણ્યફળની\N_NN પ્રાપ્તિ\N_NN છે\V_VAUX  .\RD_PUNC
+htd67	ગંગા\N-NNP કિનારે\N_NN શિવબલ્લભપુર\N-NNP નામનું\N_NN એક\QT_QTC સ્થાન\N_NN છે\V_VAUX  .\RD_PUNC
+htd68	શિવબલ્લભપુર\N-NNP નામના\N_NN સ્થળમાં\N_NN શિવ\N-NNP નિવાસ\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd69	શિવબલ્લભપુર\N-NNP શિવજીને\N-NNP ખૂબ\QT_QTC જ\RP_RPD પ્રિય\JJ છે\V_VAUX  .\RD_PUNC
+htd70	શિવબલ્લભપુર\N-NNP જંબૂદ્વીપના\N-NNP આર્યાવર્ત\N-NNP દેશમાં\N_NN હસ્તિનાપુરની\N-NNP પૂર્વ\N_NST દિશામાં\N_NN આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd71	ગંગાકિનારે\N-NNP આવેલું\V_VM શિવબલ્લભપુર\N-NNP દેવો\N_NN ,\RD_PUNC ઋષિઓ\N_NN અને\CC_CCD પિતૃઓને\N_NN સંતોષ\N_NN આપનારૂં\V_VM છે\V_VAUX  .\RD_PUNC
+htd72	શિવબલ્લભપુર\N-NNP પ્રદેશ\N_NN મને\PR_PRP કાશી\N-NNP જેવો\RP_RPD પ્રિય\JJ છે\V_VAUX  .\RD_PUNC
+htd73	ગઢમુક્તેશ્વરમાં\N-NNP આવેલ\V_VM ગંગામંદિર\N-NNP ખૂબ\QT_QTC જ\RP_RPD ઊંચાઈ\N_NN પર\PSP બનેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd74	ગઢમુક્તેશ્વરમાં\N-NNP ગંગામંદિરમાં\N-NNP ગંગા\N-NNP માતા\N_NN સિવાય\RP_RPD બ્રહ્માજીની\N-NNP મૂર્તિ\N_NN પણ\CC_CCD મૂકેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd75	ગઢમુક્તેશ્વરના\N-NNP ગંગામંદિરમાં\N-NNP એક\QT_QTC એવો\RP_RPD પત્થર\N_NN પણ\CC_CCDછે\V_VAUX જેને\PR_PRF ધ્યાનપૂર્વક\RB જોવાથી\V_VM તેના\PR_PRF પર\PSP ભગવાન\N_NN શિવની\N-NNP આકૃતિનો\N_NN આભાસ\N_NN થાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd76	ગઢમુક્તેશ્વરના\N-NNP ગંગામંદિરમાં\N-NNP પહોંચવા\V_VM માટે\PSP ક્યારેક\N_NST પગથિયાં\N_NN પણ\CC_CCD હતાં\V_VM ,\RD_PUNC
+htd77	પરંતુ\CC_CCD ,\RD_PUNC ગઢમુક્તેશ્વરના\N-NNP ગંગામંદિરમાં\N-NNP હવે\N_NST પગથિયાં\N_NN જ\RP_RPD બાકી\V_VM રહ્યાં\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd78	કહેવાય\V_VM છે\V_VAUX કે\CC_CCS સુધી\PSP ગંગાજી\N-NNP ગઢમુક્તેશ્વરના\N-NNP ગંગામંદિરના\N-NNP પગથિયાંને\N_NN સ્પર્શીને\V_VM વહેતાં\V_VM હતાં\V_VAUX .\RD_PUNC
+htd79	પરંતુ\CC_CCD ધીમે-ધીમે\RB ગંગાજી\N-NNP સ્થળ\N_NN છોડતા\V_VM ગયાં\V_VAUX .\RD_PUNC
+htd80	હવે\N_NST ગંગાનો\N-NNP કિનારો\N_NN આ\DM_DMD મંદિરથી\N_NN લગભગ\RP_RPD કિલોમીટર\N_NN દૂર\N_NST છે\V_VAUX  .\RD_PUNC
+htd81	ગંગા\N-NNP કિનારાના\N_NN રેતાળ\JJ મેદાનમાં\N_NN મેળો\N_NN ભરાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd82	મેળા\N_NN દરમિયાન\PSP કિનારા\N_NN પર\PSP તંબૂઓનું\N_NN એક\QT_QTC આખું\QT_QTF નગર\N_NN વસી\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd83	મેળાનું\N_NN સ્થળ\N_NN દિલ્લીથી\N-NNP લગભગ\RP_RPD કિલોમીટર\N_NN દૂર\N_NST થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd84	મેળાના\N_NN સ્થળે\N_NN કાર\N_NN વગેરેથી\RP_RPD આરામથી\N_NN પહોંચી\V_VM શકાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd85	ગઢમુક્તેશ્વરમાં\N-NNP ,\RD_PUNC પહેલા\QT_QTO મેળાના\N_NN સ્થળ\N_NN સુધી\PSP લોકોને\N_NN ચાલીને\V_VM જ\RP_RPD જવું\V_VM પડતું\V_VAUX હતું\V_VAUX .\RD_PUNC
+htd86	પરંતુ\CC_CCD હવે\N_NST આવગમન\N_NN માટેના\PSP ઘણાં\QT_QTF સાધનો\N_NN ઉપલબ્ધ\JJ છે\V_VAUX  .\RD_PUNC
+htd87	ઘણાં\QT_QTF લોકો\N_NN બળદગાડી\N_NN ,\RD_PUNC ટ્રેક્ટર\N_NN ટ્રોલીઓ\N_NN ,\RD_PUNC કાર\N_NN અને\CC_CCD અન્ય\QT_QTF સાધનો\N_NN દ્વારા\PSP મેળાના\N_NN સ્થળ\N_NN સુધી\PSP પહોંચે\V_VM છે\V_VAUX  .\RD_PUNC
+htd88	અનુમાન\N_NNછે\V_VAUX કે\CC_CCS દર\RP_INTF વર્ષે\N_NN લગભગ\RP_RPD વીસ\QT_QTC લાખ\QT_QTC લોકો\N_NN ગઢમુક્તેશ્વર\N-NNP મેળા\N_NN દરમિયાન\PSP ગંગાસ્નાન\N-NNP કરવા\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd89	મેળામાં\N_NN ભાગ\N_NN લેવા\V_VM આવેલા\V_VM મોટાભાગના\QT_QTF શ્રદ્ધાળુઓ\N_NN બનાવેલા\N_NN તંબુમાં\N_NN જ\N_NN રોકાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd90	મેળા\N_NN સિવાય\RP_RPD સામાન્ય\JJ દિવસોમાં\N_NN આવનાર\V_VM લોકો\N_NN વ્રજઘાટની\N-NNP આસપાસ\N_NST બનેલી\V_VM ધર્મશાળાઓમાં\N_NN રોકાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd91	આમ\RP_RPD તો\RP_RPD અહીં\N_NST ખાવા\V_VM પીવાની\V_VM વસ્તુઓ\N_NN મોટાભાગની\QT_QTF દુકાનોમાંથી\N_NN મળી\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd92	પરંતુ\CC_CCD સમૂહમાં\N_NN મેળામાં\N_NN આવનાર\V_VM શ્રદ્ધાળુઓ\N_NN પોતાના\PR_PRP ભોજન\N_NN વગેરેની\RP_RPD વ્યવસ્થા\N_NN જાતે\PR_PRF જ\RP_RPD કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd93	કાર્તિકપૂર્ણિમાના\N-NNP દિવસે\N_NN ગઢમુક્તેશ્વરમાં\N-NNP ગંગાકિનારે\N-NNP થતો\V_VM મેળો\N_NN સૌથી\PR_PRP મોટા\JJ મેળાઓમાંનો\N_NN એક\QT_QTC છે\V_VAUX  .\RD_PUNC
+htd94	મેળો\N_NN ગંગાના\N-NNP કિનારે\N_NN કિનારે\N_NN લગભગ\RP_RPD કિલોમીટરના\N_NN વિસ્તારમાં\N_NN થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd95	આ\DM_DMD વર્ષે\N_NN મેળાનું\N_NN આયોજન\N_NN મેળાના\N_NN સ્થળને\N_NN સેક્ટરમાં\N_NN વિભાજિત\JJ કરીને\V_VM કરવામાં\V_VM આવ્યું\V_VM છે\V_VAUX  .\RD_PUNC
+htd96	સુરક્ષાના\N_NN સંદર્ભમાં\N_NN ગઢમુક્તેશ્વરમાં\N-NNP પહેલાંની\N_NST સરખામણીમાં\N_NN પોલિસ\N_NN ફોર્સ\N_NN વધારે\RP_INTF ગોઠવવામાં\V_VM આવ્યો\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd97	મુખ્ય\JJ સ્થાનો\N_NN પર\PSP ક્લોઝ\N-NNP સર્કિટ\N-NNP ટીવી\N_NN કેમેરા\N_NN પણ\CC_CCD ગોઠવવામાં\V_VM આવ્યા\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd98	ગંગાસ્નાન\N-NNP માટે\PSP અનેક\QT_QTF ઘાટ\N_NN પણ\CC_CCD બનાવવામાં\V_VM આવ્યા\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd99	હસ્તિનાપુરનું\N-NNP ઐતિહાસિક\JJ મહત્ત્વ\N_NN છે\V_VAUX  .\RD_PUNC
+htd100	જૈન\N_NN સિવાયના\RP_RPD અન્ય\QT_QTF ભારતીઓ\N_NN માટે\PSP એનું\PR_PRL વિશેષ\JJ મહત્ત્વ\N_NN છે\V_VAUX  .\RD_PUNC
+htd101	હસ્તિનાપુર\N_NNV જવા\V_VM માટે\PSP અમને\PR_PRP દિલ્લીમાં\N-NNP કશ્મીરીગેટ\N-NNP બસ\N_NN સ્ટેશનથી\N_NN જવું\V_VM સગવડભર્યું\RB લાગ્યું\V_VAUX .\RD_PUNC
+htd102	કાશ્મીરીગેટથી\N-NNP સતત\RB મેરઠ\N-NNP સુધીની\RP_RPD બસો\N_NN જાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd103	પછી\N_NST મેરઠથી\N-NNP હસ્તિનાપુરની\N-NNP બસો\N_NN મળી\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd104	દિલ્લીહીથી\N-NNP હસ્તિનાપુરનું\N-NNP અંતર\N_NN લગભગ\RP_RPD કિલોમીટર\N_NN છે\V_VAUX  .\RD_PUNC
+htd105	હસ્તિનાપુરને\N-NNP શાસ્ત્રમાં\N_NN અન્ય\QT_QTF ઘણાં\QT_QTF નામોથી\N_NN પણ\CC_CCD ઓળખવામાં\V_VM આવે\V_VAUX છે\V_VAUX ,\RD_PUNC જેમકે\RP_RPD ,\RD_PUNC ગજપુર\N-NNP ,\RD_PUNC નાગપુર\N-NNP ,\RD_PUNC અસંધિવત\N-NNP ,\RD_PUNC બ્રહ્મસ્થળ\N-NNP ,\RD_PUNC શાંતિનગર\N-NNP ,\RD_PUNC કુજારપુર\N-NNP વગેરે\RP_RPD .\RD_PUNC
+htd106	હસ્તિનાપુરમાં\N-NNP જૈનધર્મના\N_NN ચોવીસ\QT_QTC તીર્થકરોમાંના\N_NN સૌપ્રથમ\QT_QTO તીર્થકર\N_NN શ્રી\N-NNP આદિનાથ\N-NNP પ્રભુએ\N_NN પોતાના\PR_PRP ચારસો\QT_QTC દિવસના\N_NN વ્રત\N_NN પછી\PSP શ્રેયાંસકુમારના\N-NNP હાથે\N_NN શેરડીનો\N_NN રસ\N_NN લઈને\V_VM પોતાના\PR_PRP વ્રતનું\N_NN સમાપન\N_NN કર્યું\V_VM હતું \V_VAUX.\RD_PUNC
+htd107	હસ્તિનાપુરમાં\N-NNP જ\RP_RPD શ્રી\N-NNP શાંતિનાથ\N-NNP પ્રભુ\N_NN ,\RD_PUNC કુંથનાથ\N-NNP પ્રભુ\N_NN અને\CC_CCD શ્રી\N-NNP અરહનાથ\N-NNP પ્રભુના\N_NN બાર\QT_QTC કલ્યાણક\N_NN થયાં\V_VM .\RD_PUNC
+htd108	ભગવાન\N_NN મલ્લિનાથનું\N-NNP સમવસરણ\N_NN પણ\CC_CCD હસ્તિનાપુરમાં\N-NNP જ\RP_RPD થયું\V_VM .\RD_PUNC
+htd109	હસ્તિનાપુરમાં\N-NNP જ\RP_RPD મુનિ\N_NN સુવ્રતનાથ\N-NNP સ્વામી\N_NN ,\RD_PUNC ભગવાન\N_NN પાર્શ્વનાથ\N-NNP અને\CC_CCD ભગવાન\N_NN મહાવીર\N-NNP સ્વામીએ\N_NN પોતાની\PR_PRF દિવ્યવાણીમાં\N_NN પ્રવચન\N_NN આપ્યા\V_VM .\RD_PUNC
+htd110	હસ્તિનાપુરમાં\N_NN પ્રક્ષાલન\N_NN અને\CC_CCD પૂજા\N_NN અર્ચનાનો\N_NN સમય\N_NN સવારે\N_NN વાગ્યાથી\V_VM સાંજે\N_NN ૫\QT_QTO વાગ્યા\V_VM સુધીનો\RP_RPD છે\V_VAUX  .\RD_PUNC
+htd111	અને\CC_CCD દિગંબર\N_NN જૈનમંદિરમાં\N_NN પૂજા\N-NNP કરવાનો\V_VM સમય\N_NN સવારે\N_NN સાત\QT_QTC વાગ્યાથી\V_VM શરૂ\V_VM થાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd112	હસ્તિનાપુરમાં\N-NNP આદિનાથ\N-NNP ભગવાન\N_NN દીક્ષા\N_NN લેવા\V_VM માટે\PSP ચારસો\QT_QTC દિવસો\N_NN પછી\PSP વૈશાખ\N-NNP સુદ\N_NN ત્રીજના\N_NN દિવસે\N_NN આવ્યા\V_VM હતાં\V_VAUX .\RD_PUNC
+htd113	લોકો\N_NN દૂરદૂરથી\N_NST એમના\PR_PRP દર્શન\N_NN માટે\PSP જતા\V_VM હતાં \V_VAUX.\RD_PUNC
+htd114	રાજકુમાર\N_NN શ્રેયાંસકુમારને\N-NNP જ્યારે\N_NST આ\DM_DMD વાતનું\N_NN જ્ઞાન\N_NN થયું\V_VM ત્યારે\N_NST તેમને\N_NST પોતાના\PR_PRF પૂર્વજોની\N_NN અન્નજળ\N_NN ત્યાગ\V_VM કરવાની\V_VM પ્રથાનું\N_NN સ્મરણ\N_NN થયું\V_VM .\RD_PUNC
+htd115	રાજકુમાર\N_NN શ્રેયાંસકુમારે\N-NNP આદિનાથ\N-NNP પ્રભુ\N_NN દ્વારા\PSP વ્રતના\N_NN સમાપન\N_NN માટે\PSP શેરડીનો\N_NN રસ\N_NN ગ્રહણ\V_VM કરવાની\V_VM પ્રાર્થના\N_NN કરી\V_VM જેનો\PR_PRL તેમણે\PR_PRP સ્વીકાર\N_NN કર્યો\V_VM .\RD_PUNC
+htd116	પછીથી\N_NST આ\DM_DMD દિવસને\N_NN અખાત્રીજ\N-NNP પણ\CC_CCD કહેવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd117	હસ્તિનાપુરમાં\N-NNP ભગવાને\N_NN પોતાના\PR_PRF પ્રવચનોથી\N_NN છ\QT_QTC મોટા\JJ રાજાઓને\N_NN જૈનધર્મના\N_NN અનુયાયી\N_NN બનાવ્યા\V_VM .\RD_PUNC
+htd118	તીર્થકરોમાંથી\N_NN તીર્થકર\N_NN શ્રી\N-NNP મુનિ\N_NN સુવ્રતસ્વામી\N-NNP ,\RD_PUNC તીર્થંકર\N_NN પાર્શ્વનાથ\N-NNP ભગવાન\N_NN અને\CC_CCD છેલ્લા\QT_QTO તીર્થંકર\N_NN શ્રી\N-NNP મહાવીરસ્વામીએ\N-NNP પણ\CC_CCD આ\DM_DMD સ્થળને\N_NN પોતાના\PR_PRF ચરણોથી\N_NN પવિત્ર\JJ કર્યું\V_VM .\RD_PUNC
+htd119	ભારતમાં\N-NNP કુલ\QT_QTF ચક્રવર્તી\JJ રાજા\N_NN થયા\V_VM ,\RD_PUNC
+htd120	ભારતના\N-NNP કુલ\QT_QTF ચક્રવર્તી\JJ રાજાઓમાંથી\N_NN જન્મસ્થળ\N_NN હસ્તિનાપુર\N-NNP છે\V_VAUX  .\RD_PUNC
+htd121	રામાયણકાળના\N-NNP પરશુરામ\N-NNP પણ\CC_CCD હસ્તિનાપુરમાં\N-NNP જન્મ્યા\V_VM હતાં\V_VAUX .\RD_PUNC
+htd122	હસ્તિનાપુર\N-NNP કૌરવો\N-NNP અને\CC_CCD પાંડવોની\N-NNP રાજધાની\N_NN રહી\V_VM ચૂકી\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd123	કારતક\N-NNP પૂનમ\N_NN અને\CC_CCD વૈશાખ\N-NNP સુદ\N_NN ત્રીજે\V_VAUX_VNP શ્વેતાંબર\N-NNP જૈનમંદિરમાં\N_NN અને\CC_CCD કારતક\N-NNP સુદ\N_NNP આઠમથી\N_NNP પૂનમની\N_NNP વચ્ચે\N_NST દિગમ્બર\N-NN જૈનમંદિરમાં\N_NN કાર્યક્રમનું\N_NN આયોજન\N_NN કરવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd124	ભગવાન\N_NN આદિનાથે\N-NNP પોદનપુર\N-NNP અને\CC_CCD હસ્તિનાપુર\N-NNP રાજ્ય\N_NN પોતાના\PR_PRF પુત્ર\N_NN બાહુબલીને\N-NNP સોંપી\V_VM દીધાં\V_VAUX હતાં\V_VAUX .\RD_PUNC
+htd125	બાહુબલીએ\N-NNP પોદનપુર\N-NNP પર\PSP શાસન\N_NN કર્યું\V_VM ,\RD_PUNC
+htd126	જ્યારે\N_NST તેમના\PR_PRL પુત્ર\N_NN સોમયશે\N-NNP હસ્તિનાપુર\N-NNP પર\PSP .\RD_PUNC
+htd127	બાહુબલીના\N-NNP નાના\RB ભાઈ\N_NN શ્રેયાંષકુમારે\N-NNP આદિનાથ\N-NNP ભગવાનનો\N_NN ચરણાભિષેક\N_NN કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+htd128	શ્રેયાંસકુમારની\N-NNP યાદમાં\N_NN રત્નસ્તંભ\N_NN બનાવાયો\V_VM હતો\V_VAUX .\RD_PUNC
+htd129	ત્યાં\N_NST આદિનાથ\N-NNP ભગવાનની\N_NN ચરણપાદુકા\N_NN પણ\CC_CCD સ્થાપિત\V_VM કરી\V_VAUX હતી\V_VAUX .\RD_PUNC
+htd130	શ્રી\N-NNP શાંતિનાથ\N-NNP ભગવાન\N_NN ,\RD_PUNC શ્રી\N-NNP કુંથનાથ\N-NNP ભગવાન\N_NN અને\CC_CCD અરહનાથ\N-NNP ભગવાનના\N_NN ચાર\QT_QTC કલ્યાણકની\N_NN યાદમાં\N_NN પણ\CC_CCD અહીં\N_NST ત્રણ\QT_QTC સ્તંભ\N_NN બનાવવામાં\V_VM આવ્યા\V_VAUX .\RD_PUNC
+htd131	રાજા\N_NN શિવરાજે\N-NNP મહાવીરસ્વામીનું\N-NNP પ્રવચન\N_NN સાંભળીને\V_VM જૈન\N_NN ધર્મ\N_NN અંગીકાર\V_VM કર્યો .\RD_PUNC\V_VAUX મહાવીરસ્વામીની\N-NNP યાદમાં\N_NN રાજા\N_NN શિવરાજે\N-NNP હસ્તિનાપુરમાં\N-NNP એક\QT_QTC સ્તંભ\N_NN બનાવડાવ્યો\V_VM .\RD_PUNC
+htd132	સમ્રાટ\JJ અશોકના\N-NNP એક\QT_QTC વંશજે\N_NN પણ\CC_CCD પોતાના\PR_PRF શાસનકાળ\N_NN દરમિયાન\PSP કેટલાય\QT_QTF જૈન\N_NN મંદિર\N_NN બનાવડાવ્યા\V_VM .\RD_PUNC
+htd133	પરંતુ\CC_CCD ,\RD_PUNC સમયની\N_NN સાથે\PSP તે\DM_DMR પ્રાચીન\RB સ્તંભ\N_NN અને\CC_CCD મંદિર\N_NN ધીમે-ધીમે\RB નષ્ટ\V_VM થઈ\V_VM ગયા\V_VAUX .\RD_PUNC
+htd134	આ\DM_DMD હસ્તિનાપુરનગર\N-NNP પવિત્ર\JJ ગંગાના\N-NNP કિનારે\N_NN હયાત\V_VM છે\V_VAUX  .\RD_PUNC
+htd135	હસ્તિનાપુર\N-NNP ગયેલા\V_VM લોકોને\N_NN રહેવા\V_VM માટે\PSP ધર્મશાળાની\N_NN પણ\CC_CCD સગવડ\N_NN મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd136	શ્વેતાંબર\N-NNP ટ્રસ્ટ\N_NN ધર્મશાળામાં\N_NN રોકાવા\V_VM માટે\PSP ઓરડા\N_NN અને\CC_CCD સવારના\N_NN નાસ્તા\N_NN ,\RD_PUNC બપોરના\N_NN ભોજન\N_NN અને\CC_CCD રાતના\N_NN ભોજનની\N_NN વ્યવસ્થા\N_NN થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd137	આ\DM_DMD રીતે\N_NN બીજી\QT_QTO કેટલીય\QT_QTF ધર્મશાળાઓ\N_NN સરળતાથી\RB મળી\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd138	ચમત્કારીક\JJ ક્ષેત્ર\N_NN તિજારા\N-NNP ઈચ્છાથી\N_NN વધારે\QT_QTF મળે\V_VM છે\V_VAUX અહીં \N_NST.\RD_PUNC
+htd139	ચંદ્રપ્રભુ\N-NNP દિગંબર\N_NN જૈન\N_NN ચમત્કારીક\JJ  ક્ષેત્ર\N_NN દેહરા\N_NNP તિજારા\N-NNP રાજસ્થાનના\N-NNP અલવર\N-NNP જિલ્લામાં\N_NN આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd140	આ\DM_DMD ચમત્કારીક\JJ ક્ષેત્ર\N_NN કહેવાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd141	અતિશયનો\RP_INTF અર્થ\N_NNછે\V_VAUX સાધારણથી\JJ ખૂબ\QT_QTC વધારે\JJ .\RD_PUNC
+htd142	એટલેકે\CC_CCD એવું\RP_RPD ક્ષેત્ર\N_NN જ્યાં\N_NST કંઈક\PR_PRI આસાધારણ\JJ થાય\V_VM અથવા\CC_CCD કોઈ\DM_DMI ચમત્કાર\N_NN થઈ\V_VM જાય\V_VAUX .\RD_PUNC
+htd143	એટલેકે\CC_CCD સાધારણ\JJ રીતે\N_NN જે\PR_PRL કંઈ\PR_PRI માંગવામાં\V_VM આવે\V_VAUX ,\RD_PUNC એનાથી\PR_PRL પણ\CC_CCD ઘણું\RP_INTF વધારે\QT_QTF મળી\V_VM જાય\V_VAUX .\RD_PUNC
+htd144	એટલું\CC_CCD મળે\V_VM કે\CC_CCS તમે\PR_PRP તરબોળ\V_VAUX_VNP થઈ\V_VM જાવ\V_VAUX .\RD_PUNC
+htd145	આવી\RP_RPD જ\RP_RPDછે\V_VAUX તિજારા\N-NNP ક્ષેત્રની\N_NN માન્યતા\N_NN .\RD_PUNC
+htd146	તિજારાનું\N-NNP આ\DM_DMD ચમત્કારીક\JJ  ક્ષેત્ર\N_NN અથવા\CC_CCD કહો\V_VM કે\CC_CCS મંદિર\N_NN અલવરજિલ્લાથી\N-NNP ૫૨\PSP કિલોમીટર\N_NN અને\CC_CCD દિલ્લીથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd147	તિજારા\N-NNP ચમત્કારીક\JJ  ક્ષેત્રમાં\N_NN તીર્થકરોમાંથી\N_NN ૮માં\QT_QTC તીર્થંકર\N_NN શ્રી\N-NNP ચંદ્રપ્રભુ\N-NNP ભગવાનની\N_NN પૂજા\N_NN કરવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd148	તિજારા\N-NNP ચમત્કારીક\JJ  ક્ષેત્રમાં\N_NN ચંદ્રપ્રભુભગવાનની\N-NNP સફેદ\JJ રંગની\N_NN અત્યંત\RP_INTF મનોહર\JJ સંગેમરમરની\N_NN મૂર્તિ\N_NN સ્થાપેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd149	આ\DM_DMD મૂર્તિ\N_NN આ\DM_DMD ક્ષેત્રમાં\N_NN કરવામાં\V_VM આવેલા\V_VM ખોદકામ\N_NN દરમિયાન\PSP ઓગસ્ટ\N-NNP ,\RD_PUNC નીકળી\V_VM હતી\V_VAUX .\RD_PUNC
+htd150	કહેવાય\V_VM છે\V_VAUX_VF કે\N_NN તિજારાક્ષેત્રમાં\N-NNP એક\QT_QTC પ્રખ્યાત\JJ વૈદ્ય\N_NN બિહારીલાલની\N-NNP પત્ની\N_NN સરસ્વતીદેવીએ\N-NNP ત્રણ\QT_QTC દિવસના\N_NN ઉપવાસ\N_NN રાખ્યો\V_VM હતા\V_VAUX .\RD_PUNC
+htd151	ત્રીજા\QT_QTO દિવસે\N_NN વ્રતની\N_NN રાત્રે\N_NN તેમને\PR_PRL સપનામાં\N_NN પોતાના\PR_PRF ઘરની\N_NN પાસે\PSP આવેલા\V_VM એક\QT_QTC સ્થળના\N_NN સંદર્ભમાં\N_NN કંઈક\PR_PRI અદ્દભૂત\JJ જોવા\V_VM મળ્યું\V_VAUX .\RD_PUNC
+htd152	બીજી\QT_QTO સવારે\N_NN જ્યારે\N_NST આ\DM_DMD સ્થળનું\N_NN ખોદકામ\N_NN કરવામાં\V_VM આવ્યું\V_VAUX ,\RD_PUNC
+htd153	ત્યાંથી\N_NST ચંદ્રપ્રભુ\N-NNP ભગવાનની\N_NN ભવ્ય\JJ મૂર્તિ\N_NN મળી\V_VM આવી\V_VAUX .\RD_PUNC
+htd154	ખોદકામ\N_NN કર્યા\V_VM પછી\PSP જે\DM_DMR સમયે\N_NN મૂર્તિ\N_NN કાઢવામાં\V_VM આવી\V_VAUX ,\RD_PUNC
+htd155	શ્રદ્ધાળુ\JJ લોકોએ\N_NN તેનો\PR_PRL અર્થ\N_NN એ\DM_DMD કર્યો\V_VM .\RD_PUNC
+htd156	આ\DM_DMD રીતે\N_NN કુદરતે\N_NN જ\RP_RPD મૂર્તિનો\N_NN જળાભિષેક\N_NN કરીને\V_VM તેને\PR_PRL પવિત્ર\JJ કરી\V_VM દીધી\V_VAUX .\RD_PUNC
+htd157	આ\DM_DMD ઘટનાના\N_NN કેટલાય\QT_QTF વર્ષ\N_NN પછી\PSP આ\DM_DMD ક્ષેત્રમાંથી\N_NN માર્ચ\N-NNP ચંદ્રપ્રભુ\N-NNP ભગવાનની\N_NN કાળા\JJ રંગની\N_NN પદ્માસનની\N_NN મુદ્રામાં\N_NN એક\QT_QTC બીજી\QT_QTO મૂર્તિ\N_NN મળી\V_VM .\RD_PUNC
+htd158	આ\DM_DMD મૂર્તિ\N_NN મંદિરના\N_NN દક્ષિણના\N_NST દરવાજાના\N_NN ખોદકામ\N_NN દરમિયાન\PSP મળી\V_VM ,\RD_PUNC
+htd159	ચમત્કારીક\JJ  ક્ષેત્રમાં\N_NN આવેલ\V_VM આ\DM_DMD મંદિરનું\N_NN બાહ્ય\JJ સ્વરૂપ\N_NN અત્યંત\RP_INTF ભવ્ય\JJછે\V_VAUX .\RD_PUNC
+htd160	અને\CC_CCD તેની\DM_DMR આંતરિક\JJ સજાવટ\N_NN ખૂબ\QT_QTC લોભામણી\JJ છે\V_VAUX  .\RD_PUNC
+htd161	મંદિરના\N_NN આંગણમાં\N_NN એટલી\QT_QTF જગ્યા\N_NNછે\V_VAUX .\RD_PUNC
+htd162	એકજ\QT_QTC વારમાં\N_NN અહીં\N_NST બે\QT_QTC હજાર\QT_QTC લોકો\N_NN સરળતાથી\RB હાજર\V_VM રહી\V_VM શકે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd163	તિજારામાં\N-NNP એક\QT_QTC મોટો\JJ હોલ\N_NN છે\V_VAUX  .\RD_PUNC
+htd164	તિજારાના\N-NNP હોલની\N_NN બંને\QT_QTC બાજુ\N_NN દીવાલો\N_NN પર\PSP કાચનું\N_NN કામ\N_NN કરવામાં\V_VM આવ્યું\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd165	ચિત્રોના\N_NN માધ્યમથી\N_NN તેના\PR_PRL પર\PSP પૌરાણિક\RB કથા\N_NN કંડારવામાં\V_VM આવી\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd166	વ્યક્તિ\N_NN આ\DM_DMD મૂર્તિની\N_NN સામે\N_NST સાચા\RB મનની\N_NN પ્રાર્થના\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd167	વ્યક્તિની\N_NN બધી\QT_QTF ઈચ્છાઓ\N_NN પૂરી\V_VM થાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd168	જાદુટુચકાથી\N_NN પીડાતા\V_VM લોકો\N_NN પણ\CC_CCD પોતાની\PR_PRF સમસ્યાઓના\N_NN નિવારણ\N_NN માટે\PSP તિજારા\N-NNP આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd169	મંદિરની\N_NN સામે\N_NST એક\QT_QTC અત્યંત\RP_INTF આકર્ષક\JJ સ્તંભ\N_NN આવેલો\V_VM છે\V_VAUX  .\RD_PUNC
+htd170	તેને\PR_PRL માનસ્તંભ\N-NNP કહેવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd171	સ્તંભની\N_NN ઉપર\N_NST ભગવાનની\N_NN મૂર્તિઓ\N_NN લગાવવામાં\V_VM આવી\V_VAUX_VF છે\V_VAUX  .\RD_PUNC
+htd172	ભગવાનની\N_NN મૂર્તિઓના\N_NN દૂરથી\N_NST જ\RP_RPD દર્શન\N_NN થઈ\V_VM જાય\V_VAUX છે\V_VAUX ,\RD_PUNC
+htd173	તેને\PR_PRL માન-સ્તંભ\N-NNP કહેવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd174	આ\DM_DMD સ્તંભના\N_NN દર્શન\N_NN માત્રથી\RP_RPD જ\RP_RPD વ્યક્તિનો\N_NN ઘમંડ\N_NN ઓછો\QT_QTF થઈ\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd175	સામાન્ય\JJ રિવાજ\N_NN એવો\RP_RPDછે\V_VAUX કે\CC_CCS માનસ્તંભના\N-NNP શિખર\N_NN પર\PSP તીર્થંકર\N_NN ભગવાનની\N_NN ચાર\QT_QTC મૂર્તિઓ\N_NN સ્થાપવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd176	તિજારામાં\N-NNP વર્ષમાં\N_NN બે\QT_QTC વાર\N_NN વિશેષ\JJ કાર્યક્રમોનું\N_NN આયોજન\N_NN કરવામાં\V_VM આવે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd177	એક\QT_QTC વાર\N_NN ફાગણની\N-NNP સાતમે\QT_QTO અને\CC_CCD બીજી\QT_QTO વાર\N_NN શ્રાવણ\N-NNP સુદ\N_NN દશમે\N_NN .\RD_PUNC
+htd178	તિજારાના\N-NNP ચમત્કારીક\JJ  ક્ષેત્રમાં\N_NN શ્રદ્ધાળુઓના\N_NN રહેવા\V_VM માટે\PSP ઓરડાઓની\N_NN ધર્મશાળા\N_NN બનાવવામાં\V_VM આવી\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd179	પ્રાચીન\JJ સમયમાં\N_NN તિજારા\N-NNP ચમત્કારીક\JJ દહેરું\N-NNP નામથી\N_NN પ્રસિદ્ધ\JJ હતું\V_VM .\RD_PUNC
+htd180	સમયાંતરે\N_NN આ\DM_DMD સ્થાન\N_NN દહેરું\N_NNP તિજારા\N-NNP અને\CC_CCD હવે\N_NST માત્ર\RP_RPD તિજારા\N-NNP પણ\CC_CCD કહેવાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd181	બસ્તરના\N-NNP જીલ્લા\N_NN મુખ્યમથક\JJ જગદલપુરથી\N-NNP દક્ષિણમાં\N_NST કિલોમીટર\N_NN દૂર\N_NST કાંકેર\N-NNP ખીણ\N_NN રાષ્ટ્રીય\JJ બાગ\N_NN આવેલ\V_VM છે\V_VAUX  .\RD_PUNC
+htd182	કાંકેર\N-NNP ખીણપ્રદેશ\N_NN રાષ્ટ્રીય\JJ બાગ\N_NN પોતાના\PR_PRF પાણીના\N_NN ધોધ\N_NN ,\RD_PUNC ગુફાઓ\N_NN તથા\CC_CCD જીવજંતુંની\N_NN વિવિધતા\N_NN માટે\PSP પ્રસિદ્ધ\JJ છે\V_VAUX  .\RD_PUNC
+htd183	કાંકેર\N-NNP ખીણપ્રદેશના\N_NN મુખ્ય\JJ પર્યટનસ્થળ\N_NN નીચે\N_NST મુજબ\PSPછે\V_VAUX .\RD_PUNC
+htd184	જગદલપુરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલા\V_VM તીરથગઢનો\N-NNP મનમોહક\JJ ધોધ\N_NN પ્રવાસીઓના\N_NN મન\N_NN મોહી\V_VM લે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd185	પ્રવાસીઓ\N_NN તેની\PR_PRL મોહક\JJ છટામાં\N_NN એટલા\QT_QTF ખોવાય\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+htd186	અહીંથી\N_NST પાછા\RB ફરવાનું\V_VM મન\N_NN જ\RP_RPD નથી\V_VAUX થતું \V_VM.\RD_PUNC
+htd187	મુનગાબહાર\N-NNP નદી\N_NN ઉપર\PSP આવેલ\V_VM આ\DM_DMD ધોધ\N_NN ચંદ્રાકારરૂપથી\N_NN બનેલા\V_VM પહાડ\N_NN પરથી\PSP ફૂટ\N_NN નીચે\N_NST પગથિયા\N_NN પ્રકારની\N_NN કુદરતી\JJ રચનાઓ\N_NN ઉપર\PSP પડે\V_VM છે\V_VAUX  .\RD_PUNC
+htd188	પાણી\N_NN પડવાથી\V_VM થતું\V_VM દૂધીયું\JJ ફીણ\N_NN તથા\CC_CCD પાણીના\N_NN ટીપાંના\N_NN બનેલા\V_VM કુદરતી\JJ ફુવારા\N_NN પર્યટકોને\N_NN થોડા\QT_QTF થોડા\QT_QTF ભીંજવી\V_VM દે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd189	ભૂવિજ્ઞાનમાં\N-NNP એમ.ટેક.\N-NNP હોવાના\V_VM કારણે\N_NN મેં\PR_PRP એની\PR_PRL ભૂવૈજ્ઞાનિક\JJ ઉત્ત્પત્તિ\N_NN જાણવાનો\V_VM પ્રયત્ન\N_NN કર્યો\V_VM .\RD_PUNC
+htd190	મે\PR_PRP એ\DM_DMD જાણ્યું\V_VM
+htd191	કરોડો\QT_QTC વર્ષ\N_NN પહેલા\PSP કોઈ\DM_DMI ભૂકંપથી\N_NN બનેલા\V_VM ચન્દ્ર\N_NN ભ્રંસથી\N_NN નદીની\N_NN નીચેની\N_NST બાજુના\N_NN ખડકો\N_NN નીચે\N_NST ધસી\V_VM ગયા\V_VAUX
+htd192	તથા\CC_CCD તેનાથી\PR_PRL બનેલા\V_VM પગથિયા\N_NN સ્વરૂપના\N_NN ખીણપ્રદેશે\N_NN આ\DM_DMD મનોરમ્ય\JJ ધોધનું\N_NN સર્જન\N_NN કર્યું\V_VM હશે\V_VAUX .\RD_PUNC
+htd193	તીરથગઢ\N-NNP ધોધથી\N_NN કિલોમીટર\N_NN દૂર\N_NST પ્રાચીન\JJ મહત્ત્વ\N_NN ધરાવતું\V_VM મંદિર\N_NN ચિંગીતરાઈમાં\N-NNP આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd194	તીરથગઢની\N-NNP સાથે\PSP ચિંગીતરાઈ\N-NNP તથા\CC_CCD ચન્દ્રગિરિ\N-NNP ઐતિહાસિક\JJ મહત્ત્વ\N_NN ધરાવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd195	એમ\RP_RPD કહેવાય\V_VM છે\V_VAUX
+htd196	એ\DM_DMD રાજ્યમાં\N_NN કોઈ\DM_DMI રાજાને\N_NN બે\QT_QTC પુત્રો\N_NN હતાં\V_VM .\RD_PUNC
+htd197	રાજકુમાર\N_NN ચન્દ્રદેવને\N-NNP વારસામાં\N_NN ચન્દ્રગિરિનો\N-NNP વિસ્તાર\N_NN મળ્યો\V_VM
+htd198	ચન્દ્રગિરિના\N-NNP નામ\N_NN ઉપરથી\PSP આ\DM_DMD શહેરનું\N_NN નામ\N_NN ચન્દ્રગિરિ\N-NNP પડયું\V_VM
+htd199	ત્યાં\N_NST એમના\PR_PRL ભાઈને\N_NN તીરથગઢની\N-NNP જાગીર\N_NN મળી\V_VM
+htd200	જેનું\DM_DMR નામ\N_NN એમના\PR_PRL નામ\N_NN ઉપરથી\PSP તીરથગઢ\N-NNP પડયું\V_VM .\RD_PUNC
+htd201	ચન્દ્રગિરિ\N-NNP અને\CC_CCD ચિંગીતરાઈમાં\N-NNP પ્રાચીન\JJ મહત્ત્વના\N_NN અવશેષો\N_NN મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd202	જગદલપુરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST વિશ્વપ્રસિદ્ધ\JJ કોટમસરની\N-NNP કુદરતી\JJ ગુફાઓ\N_NN આવેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd203	વિશ્વની\N_NN સૌથી\PR_PRP લાંબી\JJ આ\DM_DMD ગુફાની\N_NN લંબાઈ\N_NN મીટર\N_NN છે\V_VAUX  .\RD_PUNC
+htd204	ચૂનાપત્થરના\N_NN ધોવાણથી\N_NN બનેલી\V_VM આ\DM_DMD ગુફાઓ\N_NN ચૂનાપત્થરના\N_NN જામવાથી\V_VM બનેલી\V_VM સંરચનાઓને\N_NN કારણે\N_NN પ્રસિદ્ધ\JJ છે\V_VAUX  .\RD_PUNC
+htd205	ચૂનાપત્થરના\N_NN જામવાને\V_VM કારણે\N_NN સ્ટલેગટાઈટ\N-NNP ,\RD_PUNC સ્ટલેગમાઈટ\N-NNP તથા\CC_CCD ડ્રપિસ્ટોન\N-NNP જેવી\RP_RPD સંરચનાઓ\N_NN બની\V_VM જાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd206	છત\N_NN પર\PSP લટકતા\V_VM ઝુમ્મર\N_NN સ્ટલેગ્ટાઈટ\N-NNP ,\RD_PUNC જમીનથી\N_NN ઊપર\PSP જતાં\V_VM સ્તંભ\N_NN સ્ટેલેગમાઈટ\N-NNP તથા\CC_CCD છત\N_NN અને\CC_CCD જમીનથી\N_NN જોડાયેલા\V_VM મોટા\JJ મોટા\JJ સ્તંભ\N_NN ડ્રપિસ્ટોન\N-NNP કહેવાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd207	ડૉ.\N-NNP શંકર\N-NNP તિવારીએ\N_NN પહેલીવાર\N_NST આ\DM_DMD ગુફાનું\N_NN વર્ણન\N_NN કર્યું\V_VM હતું \V_VAUX.\RD_PUNC
+htd208	આ\DM_DMD ગુફામાં\N_NN નાના\JJ નાના\JJ તળાવ\N_NN આવેલા\V_VM છે\V_VAUX
+htd209	ગુફાઓમાંથી\N_NN મળતી\V_VM નાની\JJ નાની\JJ માછલીઓની\N_NN આંખો\N_NN નથી\V_VAUX દેખાતી\V_VM .\RD_PUNC
+htd210	સદીઓથી\N_NN અંધકારમાં\N_NN રહેવાને\V_VM કારણે\N_NN એમની\PR_PRL આંખની\N_NN ઉપયોગિતા\N_NN ખલાસ\V_VM થઈ\V_VM ગઈ\V_VAUX
+htd211	હવે\N_NST આ\DM_DMD માછલીઓ\N_NN જન્મથી\N_NN જ\RP_RPD દ્રષ્ટિહીન\JJ પેદા\V_VM થાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd212	આ\DM_DMD ડાર્વિનના\N-NNP સિદ્ધાંતને\N_NN અનુમોદન\N_NN આપે\V_VM છે\V_VAUX  .\RD_PUNC
+htd213	કોટમસરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST કૈલાસ\N-NNP ગુફા\N_NN આવેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd214	આના\PR_PRL મોટા-મોટા\JJ ખંડ\N_NN કોઈ\DM_DMI રાજાના\N_NN દરબાર\N_NN જેવા\RP_RPD ભાસે\V_VM છે\V_VAUX
+htd215	ચૂનાપત્થરની\N_NN આકૃતિઓ\N_NN શિવલિંગ\N_NN સમાન\RP_RPD દેખાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd216	તેથી\CC_CCD આ\DM_DMD ગુફાનું\N_NN ધાર્મિક\JJ મહત્ત્વ\N_NN પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd217	કૈલાશગુફામાં\N-NNP મહાશિવરાત્રીના\N-NNP દિવસે\N_NN ભક્તોની\N_NN ભીડ\N_NN જામેલી\V_VM હોય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd218	કૌલાશગુફા\N-NNP મીટરની\N_NN ઊંચાઈ\N_NN પર\PSP અને\CC_CCD મીટર\N_NN લાંબી\JJ છે\V_VAUX  .\RD_PUNC
+htd219	દંડકગુફા\N-NNP કોટમસરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd220	દંડકગુફામાં\N-NNP પણ\CC_CCD કોટમસર\N-NNP ગુફા\N_NN જેવીજ\RP_RPD સ્ટલેગટાઈટ\N-NNP ,\RD_PUNC સ્ટલેગમાઈટ\N-NNP તથા\CC_CCD ડ્રપિસ્ટોન\N-NNP જેવી\RP_RPD સંરચનાઓ\N_NN ભવ્ય\JJ સ્વરૂપ\N_NN પ્રદાન\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd221	કાંગેરખીણપ્રદેશની\N-NNP લગોલગ\N_NST આરણ્યકગુફામાં\N-NNP જાધરા\N-NNP ઝાંપી\N-NNP અને\CC_CCD મકરખંડની\N-NNP બાકી\QT_QTF રહેલી\V_VM સંરચનાઓ\N_NN જોતાજ\DM_DMI અનુભવાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd222	રાયપુરથી\N-NNP જગદલપુર\N-NNP આવતી\V_VM વખતે\N_NN બસ્તર\N-NNP જિલ્લામાં\N_NN સ્વાગત\N_NN કરવા\V_VM_VF કાંકેરના\N-NNP વિશાળ\JJ ડુંગરો\N_NN તત્પર\JJ દેખાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd223	કાંકેરથી\N-NNP કિલોમીટર\N_NN આગળ\N_NST શરૂ\V_VM થાય\V_VM છે\V_VAUX કેશકાલનો\N-NNP મનોહર\JJ ખીણપ્રદેશ\N_NN .\RD_PUNC
+htd224	હેયરપીન\N_NN વળાંક\N_NN લેતો\V_VM આ\DM_DMD મનોહર\RB ખીણપ્રદેશ\N_NN પર્યટકોના\N_NN મન\N_NN મોહી\V_VM લે\V_VM છે\V_VAUX  .\RD_PUNC
+htd225	કેશકાલના\N-NNP ખીણપ્રદેશને\N_NN અંતે\N_NST શરૂ\V_VM થાય\V_VAUX છે\V_VAUX દંડકારણ્યના\N-NNP પહાડી\JJ મેદાનો\N_NN .\RD_PUNC
+htd226	પંચવટીના\N-NNP આરામગૃહ\N_NN તથા\CC_CCD વોચિંગટાવર\N_NN ઉપરથી\PSP કેશકાલ\N-NNP ખીણપ્રદેશના\N_NN મનોરમ્ય\JJ દ્રશ્ય\N_NN જોવા\V_VM મળે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd227	એકાએક\RB તો\RP_RPD એ\DM_DMD અનુભવ\N_NN થતો\V_VM નથી\V_VAUX કે\CC_CCS અમે\PR_PRP મેદાની\JJ પ્રદેશોના\N_NN દ્રશ્યો\N_NN જોઈ\V_VM રહ્યાં\V_VAUX છીએ\V_VAUX
+htd228	દૂર\N_NST દૂર\N-NNP સુધી\RP_RPD પર્વતમાળાઓ\N_NN ફેલાયેલી\V_VM છે\V_VAUX  .\RD_PUNC
+htd229	લીલી\JJ ચાદરમાં\N_NN વીંટળાયેલી\V_VM સુંદર\JJ વસુંધરા\N_NN ,\RD_PUNC વાદળોના\N_NN પર્વતો\N_NN સાથે\PSP અથડાતા\V_VM ઝુંડ\N_NN આપણને\PR_PRP જાણે\RP_RPD હિમાલયના\N_NN પર્વતો\N_NN જેવો\RP_RPD અનુભવ\N_NN કરાવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd230	બસ્તરની\N_NN વાસ્તવિક\JJ સરહદ\N_NN અહીંથી\N_NST શરૂ\V_VM થાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd231	બસ્તરના\N_NN પ્રમુખ\JJ સ્થાન\N_NN જગદલપુરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલ\V_VM બારસૂર\N-NNP સુધી\PSP પહોંચવા\V_VM માટે\PSP ગીદમ\N-NNP થઈને\V_VM જવું\V_VM પડે\V_VM છે\V_VAUX  .\RD_PUNC
+htd232	બારસૂર\N-NNP ગીદમથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd233	અહીં\N_NST ગણેશજીની\N-NNP વિશાળ\JJ મૂર્તિ\N_NN છે\V_VAUX  .\RD_PUNC
+htd234	બારસૂર\N-NNP નાગ\N_NN રાજાઓ\N_NN તથા\CC_CCD કાકતીય\N-NNP શાસકોની\N_NN રાજધાની\N_NN રહ્યું\V_VM છે\V_VAUX  .\RD_PUNC
+htd235	બારસૂર\N-NNP અગિયારમી\QT_QTO તથા\CC_CCD બારમી\QT_QTO સદીના\N_NN મંદિરો\N_NN માટે\PSP પ્રસિદ્ધ\V_VM છે\V_VAUX  .\RD_PUNC
+htd236	બારસૂરના\N-NNP મંદિરોમાં\N_NN મામા-ભાણેજમંદિર\N-NNP મૂલત\N_NN શિવમંદિર\N_NN છે\V_VAUX  .\RD_PUNC
+htd237	મામા-ભાણેજ\N-NNP મંદિર\N_NN બે\QT_QTC ગર્ભગૃહ\N_NN ધરાવતું\V_VM મંદિર\N_NN છે\V_VAUX  .\RD_PUNC
+htd238	મામા-ભાણેજ\N-NNP મંદિરના\N_NN મંડપ\N_NN એકબીજા\PR_PRC સાથે\PSP જોડાયેલા\V_VM છે\V_VAUX  .\RD_PUNC
+htd239	બારસૂરના\N-NNP ખંડિત\JJ મંદિરોમાં\N_NN મૈથુનરત\JJ પ્રતિમાઓના\N_NN ચિહ્નો\N_NN પણ\CC_CCD મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd240	ઇતિહાસકાર\N_NN તથા\CC_CCD પ્રસિદ્ધ\JJ શિક્ષણશાસ્ત્રી\N_NN ડૉ.\N-NNP કે.કે.ઝાના\N-NNP મત\N_NN મુજબ\PSP આ\DM_DMD નગર\N_NN પ્રાચીનકાળમાં\N_NST વૈવશ્વતપુરના\N-NNP નામથી\N_NN ઓળખાતું\V_VM હતું\V_VAUX .\RD_PUNC
+htd241	ચન્દ્રાદિત્ય\N-NNP મંદિર\N_NN નાગરાજા\N-NNP ચન્દ્રાદિત્યએ\N-NNP કરાવ્યું\V_VM હતું .\RD_PUNC\V_VAUX તથા\CC_CCD એમના\PR_PRL નામ\N_NN પરથી\PSP આ\DM_DMD મંદિર\N_NN જાણીતું\JJ બન્યું\V_VM છે\V_VAUX  .\RD_PUNC
+htd242	બત્રીસ\QT_QTC સ્તંભ\N_NN પર\PSP ઊભેલા\V_VM બત્તીસામંદિરનું\N-NNP નિર્માણ\N_NN રેતાળ\JJ પત્થરથી\N_NN થયેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd243	બત્તીસ\N-NNP મંદિરનું\N_NN નિર્માણ\N_NN ગુંડમહાદેવીએ\N-NNP સોમેશ્વરદેવના\N-NNP શાસનકાળમાં\N_NN કર્યું\V_VM .\RD_PUNC
+htd244	બત્તીસા\N-NNP મંદિરમાં\N_NN શિવ\N-NNP તથા\CC_CCD નંદીની\N-NNP સુંદર\JJ પ્રતિમાઓ\N_NN છે\V_VAUX  .\RD_PUNC
+htd245	એક\QT_QTC હજાર\QT_QTC વર્ષ\N_NN જૂનાં\JJ આ\DM_DMD બત્તીસામંદિરને\N-NNP ખૂબ\QT_QTC જ\RP_RPD વૈજ્ઞાનિક\JJ ઢબે\N_NN પત્થરોને\N_NN ગોઠવીને\V_VM બનાવવામાં\V_VM આવ્યું\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd246	આ\DM_DMD મંદિર\N_NN પુરાતત્ત્વ\N_NN વિભાગ\N_NN દ્વારા\PSP સંરક્ષિત\JJ સ્મારક\N_NN છે\V_VAUX  .\RD_PUNC
+htd247	ગણેશ\N-NNP ભગવાનની\N_NN બે\QT_QTC વિશાળ\JJ રેતાળ\JJ પત્થરની\N_NN બનેલી\V_VM પ્રતિમાઓ\N_NN આશ્ચર્યચક્તિ\JJ કરી\V_VM દે\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd248	મામા-ભાણેજ\N-NNP મંદિર\N_NN શિલ્પની\N_NN દ્રષ્ટિએ\N_NN ઉત્કૃષ્ટ\JJ અને\CC_CCD દર્શનીય\JJ છે\V_VAUX  .\RD_PUNC
+htd249	બસ્તર\N-NNP જિલ્લાના\N_NN વિકાસખંડ\N_NN બસ્તરમાં\N-NNP જગદલપુરથી\N-NNP લગભગ\RP_RPD કિલોમીટર\N_NN દૂર\N_NST છિંદક\N-NNP નાગવંશી\JJ રાજા\N_NN ધારાવર્ષાની\N-NNP રાણી\N_NN ગુંડમહાદેવી\N-NNP દ્વારા\PSP નારાયણપાલનું\N-NNP વિષ્ણુમંદિર\N_NN ઈ.સ.\N_NN બનાવવામાં\V_VM આવ્યું\V_VAUX .\RD_PUNC
+htd250	ગુંડમહાદેવીનો\N-NNP પુત્ર\N_NN સોમેશ્વરદેવ\N-NNP એક\QT_QTC પ્રતાપી\JJ રાજા\N_NN હતો\V_VM .\RD_PUNC
+htd251	મંદિરનું\N_NN બાંધકામ\N_NN પૂર્ણ\JJ થતાં\V_VM સુધીમાં\RP_RPD ધારાવર્ષા\N-NNP અને\CC_CCD સોમેશ્વરદેવ\N-NNP દિવંગત\JJ થઈ\V_VM ચૂક્યા\V_VAUX હતા\V_VAUX .\RD_PUNC
+htd252	અને\CC_CCD ગુંડમહાદેવીના\N-NNP પૌત્ર\N_NN છિંદક\N-NNP નાગવંશી\JJ રાજા\N_NN કન્હરદેવનું\N-NNP શાસન\N_NN હતું\V_VM .\RD_PUNC
+htd253	ગુંડમહાદેવી\N-NNP અને\CC_CCD તેની\PR_PRL પુત્રવધૂ\N_NN સોમેશ્વરદેવની\N-NNP રાણીના\N_NN શિલાલેખ\N_NN પણ\RP_RPD અહીં\N_NST છે\V_VAUX  .\RD_PUNC
+htd254	નારાયણપાલનું\N-NNP આ\DM_DMD મંદિર\N_NN પુરાતત્ત્વવિભાગ\N_NN દ્વારા\PSP સંરક્ષિત\JJ સ્મારક\N_NN છે\V_VAUX  .\RD_PUNC
+htd255	નારાયણપાલનું\N-NNP આ\DM_DMD મંદિર\N_NN છિંદકનાગવંશીશાસનના\N-NNP સમયની\N_NN માહિતી\N_NN મેળવવા\V_VM માટેનો\PSP મુખ્ય\JJ સ્રોત\N_NN પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd256	શંખની\N-NNP અને\CC_CCD ડંકની\N-NNP નદીના\N_NN સંગમસ્થળ\N_NN પર\PSP આવેલું\V_VM દંતેવાડા\N-NNP જગદલપુરથી\N-NNP કિલોમીટર\N_NN દૂર\N_NST આવેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd257	અહીં\N_NST બસ્તરની\N-NNP આરધ્યદેવીમાતા\N_NN દંતેશ્વરીનું\N-NNP પ્રાચીન\JJ મંદિર\N_NN છે\V_VAUX  .\RD_PUNC
+htd258	દંતેશ્વરીદેવી\N-NNP બસ્તરના\N-NNP રહેવાસીઓની\N_NN શ્રદ્ધાનું\N_NN પ્રતીક\N_NN છે\V_VAUX  .\RD_PUNC
+htd259	દશેરા\N-NNP વખતે\N_NN દેશ-વિદેશથી\N_NN પ્રવાસીઓ\N_NN બસ્તર\N-NNP આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd260	પગે\N_NN ચાલીને\V_VM આવતા\V_VM શ્રદ્ધાળુઓ\N_NN માટે\PSP જુદી\JJ જુદી\JJ સ્વયંસેવી\N_NN સંસ્થાઓ\N_NN દ્વારા\N_NN નિશુલ્ક\JJ ભોજન\N_NN ,\RD_PUNC નાસ્તા\N_NN ,\RD_PUNC રહેવાનું\V_VM અને\CC_CCD તબીબી\JJ સુવિધાઓ\N_NN ઉપલબ્ધ\JJ કરાવવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd261	બસ્તરમાં\N-NNP દંતેશ્વરીમાતા\N-NNP ઉપરાંત\RP_RPD શિવ\N-NNP ,\RD_PUNC ગણેશ\N-NNP ,\RD_PUNC વિષ્ણુ\N-NNP ,\RD_PUNC સૂર્ય\N-NNP અને\N_NN ભૈરવની\N-NNP પ્રતિમાઓ\N_NN છે\V_VAUX  .\RD_PUNC
+htd262	આ\DM_DMD પ્રતિમાઓ\N_NN પુરાતત્ત્વની\N_NN દ્રષ્ટિએ\N_NN પણ\CC_CCD ખૂબ\QT_QTC જ\RP_RPD મહત્ત્વપૂર્ણ\JJ છે\V_VAUX  .\RD_PUNC
+htd263	બૈલાડીલામાં\N-NNP લોખંડનું\N_NN ઉત્ખનન\N_NN જોવું\V_VM એ\DM_DMD એક\QT_QTC અદ્દભુત\JJ અનુભવ\N_NN છે\V_VAUX  .\RD_PUNC
+htd264	બચેલી\N-NNP અને\CC_CCD કિરંદૂલમાં\N-NNP એન.એમ.ડી.સી.ની\N-NNP ખાણો\N_NN છે\V_VAUX  .\RD_PUNC
+htd265	બૈલાડીલામાં\N-NNP ગેસ્ટહાઉસમાં\N_NN રોકાઈ\V_VM શકાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd266	બૈલાડીમાં\N-NNP લોખંડની\N_NN ખાણોને\N_NN જોવા\V_VM માટે\PSP મંજૂરી\N_NN લેવી\V_VM જરૂરી\JJ છે\V_VAUX  .\RD_PUNC
+htd267	બચેલીની\N-NNP ખાણો\N_NN ટાઉનશીપથી\N_NN કિલોમીટર\N_NN દૂર\N_NST છે\V_VAUX  .\RD_PUNC
+htd268	બચેલીનું\N_NN લોહચુંબક\N_NN સારી\JJ ગુણવત્તાવાળું\N_NN માનવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd269	બચેલીમાંથી\N-NNP મળતાં\V_VM લોહચુંબકમાં\N_NN લોખંડનું\N_NN પ્રમાણ\N_NN સુધીનું\RP_RPD હોય\V_VM છે\V_VAUX  .\RD_PUNC
+htd270	કે.કે.\N-NNP રેલવેલાઈન\N_NN કોત્સાવલ્યાથી\N-NNP કિરંદૂલ\N-NNP
+htd271	કે.કે.\N-NNP રેલવે\N_NN લાઈનમાં\N_NN પેસેન્જર\N_NN ટ્રેન\N_NN  દ્વારા\PSP યાત્રા\N_NN કરવી\V_VM એ\DM_DMD એક\QT_QTC રોમાંચક\JJ અનુભવ\N_NN છે\V_VAUX  .\RD_PUNC
+htd272	રસ્તામાં\N_NN ઘેરા\JJ જંગલ\N_NN અને\CC_CCD ગગનચુંબી\JJ પર્વતમાળાની\N_NN વચ્ચેથી\N_NST પસાર\V_VM થતી\V_VM ટ્રેન\N_NN યૂ-ટર્ન\N_NN લેતી\V_VM અને\CC_CCD મેઘમાળાઓની\N-NNP વચ્ચેથી\N_NN દેખાતા\V_VM પહાડ\N_NN મનમોહક\JJ દ્રશ્ય\N_NN સર્જે\V_VM છે\V_VAUX  .\RD_PUNC
+htd273	જે\DM_DMR જીવવૈવિધ્ય\N_NN બસ્તરમાં\N-NNP જોવા\V_VM મળે\V_VM છે\V_VAUX તે\PR_PRL બીજે\N_NST ક્યાંય\N_NST જોવા\V_VM મળતી\V_VM નથી\V_VAUX .\RD_PUNC
+htd274	બસ્તરની\N-NNP રોમાંચપૂર્ણ\JJ યાત્રામાં\N_NN એશિયાનું\N-NNP સૌથી\PR_PRP ઊંચું\JJ બ્રોડગેજ\N-NNP રેલવેસ્ટેશન\N_NN શિમલીગુડામાં\N-NNP છે\V_VAUX  .\RD_PUNC
+htd275	તાડીના\N-NNP રસભર્યા\JJ ફળ\N_NN વેચનારાઓ\N_NN આખા\QT_QTF રસ્તે\N_NN મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd276	તાડીના\N-NNP રસદાર\JJ ફળો\N_NN ખાવા\V_VM સારા\JJ લાગે\V_VM છે\V_VAUX  .\RD_PUNC
+htd277	આ\DM_DMD રોમાંચકારી\JJ યાત્રામાં\N_NN બે\QT_QTC ઇલેક્ટ્રિક\JJ એન્જિનથી\N_NN ચાલતી\V_VM ટ્રેન\N_NN ટનલમાંથી\N_NN પસાર\V_VM થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd278	કે.કે.\N-NNP લાઈનની\N_NN લંબાઈ\N_NN મીટર\N_NN સુધી\PSP છે\V_VAUX  .\RD_PUNC
+htd279	કે.કે.\N-NNP લાઈનનું\N_NN નિર્માણ\N_NN જાપાનીઓએ\N-NNP બૈલાડીલાના\N-NNP લોખંડને\N_NN વિશાખાપટનમ\N-NNP થઈને\V_VM જાપાન\N-NNP લઈ\V_VM જવા\V_VM માટે\PSP કર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+htd280	વિશાખાપટનમથી\N-NNP લોખંડ\N_NN વહાણ\N_NN દ્વારા\PSP જાપાન\N-NNP લઈ\V_VM જવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd281	કે.કે.\N_NNP લાઈનની\N-NNP યાત્રામાં\N_NN ખાવાપીવાની\N_NN સામગ્રી\N_NN મળતી\V_VM નથી\V_VAUX .\RD_PUNC
+htd282	આથી\CC_CCD જો\RP_RPD આ\DM_DMD યાત્રાનો\N_NN આનંદ\N_NN લેવો\V_VM હોયતો\V_VAUX ખાવાપીવાની\N_NN પુષ્કળ\QT_QTF સામગ્રી\N_NN સાથે\PSP લઈ\V_VM જવી\V_VM જોઈએ\V_VAUX .\RD_PUNC
+htd283	કે.કે.\N-NNP લાઈન\N_NN છેલ્લા\QT_QTO વર્ષથી\N_NN લોખંડનું\N_NN પરિવાહન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+htd284	સરેરાશ\QT_QTF માલગાડીઓ\N_NN કે.કે.\N_NNP રેલવેલાઈન\N_NN પર\PSP દરરોજ\N_NST ચાલે\V_VM છે\V_VAUX  .\RD_PUNC
+htd285	કિલોમીટર\N_NN લાંબી\JJ આ\DM_DMD કે.કે.\N_NNP રેલવેલાઈનથી\N_NN લોખંડનું\N_NN પરિવહન\N_NN કરીને\V_VM રેલવેને\N_NN દરવર્ષે\N_NST લગભગ\RP_RPD બિલિયનનો\QT_QTC ફાયદો\N_NN થાય\V_VM છે\V_VAUX  .\RD_PUNC
+htd286	જગદલપુરથી\N-NNP કિલોમીટરના\N_NN અંતરે\N_NN વિશ્વપ્રસિદ્ધ\JJ ચિત્રકોટ\N-NNP જળધોધ\N_NN આવેલો\V_VM છે\V_VAUX  .\RD_PUNC
+htd287	ચિત્રકોટમાં\N-NNP ઈન્દ્રાવતી\N-NNP નદી\N_NN વિસ્તાર\N_NN પામીને\V_VM મનમોહક\JJ જળધોધનું\N_NN નિર્માણ\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd288	ચિત્રકોટજળધોધને\N-NNP બસ્તરનો\N-NNP નાયગ્રા\N-NNP પણ\CC_CCD કહેવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd289	ફ્લડ\N_NN લાઈટમાં\N_NN જળધોધને\N_NN જોવો\V_VM જે\PR_PRL જુદો\JJ જ\RP_RPD અનુભવ\N_NN કરાવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd290	પર્યટનવિભાગની\N_NN સુવિધાપૂર્ણ\JJ મઢુલીઓમાં\N_NN રોકાવાનો\V_VM આનંદ\N_NN જ\RP_RPD જુદો\JJ છે\V_VAUX  .\RD_PUNC
+htd291	ચિત્રકોટ\N-NNP જળધોધથી\N_NN લગભગ\RP_RPD કિલોમીટર\N_NN દૂર\N_NST તામડાઘુમડ\N-NNP જળધોધ\N_NN છે\V_VAUX  .\RD_PUNC
+htd292	તામડાઘુમડ\N-NNP જળધોધમાં\N_NNP એક\QT_QTC નાની\JJ નદી\N_NN સીધી\JJ લગભગ\RP_RPD ફૂટની\N_NN ઊંચાઈએથી\N_NN નીચેના\N_NST ભાગમાં\N_NN પડીને\V_VM એક\QT_QTC મનોરમ\JJ જળધોધનું\N_NN નિર્માણ\N_NN કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd293	જળધોધને\N_NN નીચે\N_NST ઉતરીને\V_VM જોવો\V_VM ગમે\V_VM છે\V_VAUX  .\RD_PUNC
+htd294	ઉતરવાનો\V_VM માર્ગ\N_NN મુશ્કેલ\JJ હોવાને\V_VM કારણે\N_NN વધારે\RP_INTF પડતી\V_VM સાવધાની\N_NN રાખવી\V_VM જરૂરી\JJ છે\V_VAUX  .\RD_PUNC
+htd295	જગદલપુરના\N-NNP મુખ્યપ્રદેશમાં\N_NN આવેલું\V_VM એક\QT_QTC મનોરમ\JJ સ્થળ\N_NN છે\V_VAUX  .\RD_PUNC
+htd296	અહીં\N_NST બાળકો\N_NN માટે\PSP બાળઉદ્યાન\N_NN અને\CC_CCD રેલગાડીની\N_NN વ્યવસ્થા\N_NN છે\V_VAUX  .\RD_PUNC
+htd297	સાથેજ\PSP એક\QT_QTC વિશાળ\JJ સ્કેટિંગ\N_NN રિંગ\N_NN યુવાનોને\N_NN આકર્ષિત\V_VM કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd298	સુંદર\JJ લોન\N_NN અને\CC_CCD પુષ્પવાટિકા\N-NNP પ્રવાસીઓનું\N_NN મન\N_NN મોહી\V_VM લે\V_VM છે\V_VAUX  .\RD_PUNC
+htd299	કાકતીયવંશના\N-NNP મહારાજા\N_NN પુરુષોત્તમદેવ\N-NNP દ્વારા\PSP બનાવાયેલા\V_VM_VF આ\DM_DMD તળાવને\N_NN છત્તીસગઢના\N-NNP સૌથી\PR_PRP મોટામાં\JJ મોટા\JJ તળાવ\N_NN હોવાનું\V_VM ગૌરવ\N_NN મળ્યું\V_VM છે\V_VAUX  .\RD_PUNC
+htd300	સવારે\N_NN અને\CC_CCD સંધ્યાએ\N_NN ફરવા\V_VM માટેનું\PSP આ\DM_DMD ઉપયોગી\JJ સ્થળ\N_NN છે\V_VAUX  .\RD_PUNC
+htd301	તળાવમાં\N_NN બનેલા\V_VM આઈલેન્ડમાં\N_NN મોટરબોટની\N_NN સાથે\PSP પૈડલબોટથી\N_NN ફરવાની\V_VM સુવિધા\N_NN મળે\V_VM છે\V_VAUX  .\RD_PUNC
+htd302	આઈલેન્ડમાં\N_NN આવેલી\V_VM પવનચક્કી\N_NN પણ\CC_CCD આકર્ષિત\V_VM કરે\V_VM છે\V_VAUX  .\RD_PUNC
+htd303	બસ્તરના\N-NNP રાજમહેલના\N_NN મુખ્ય\JJ દરવાજા\N_NN પર\PSP બસ્તરની\N-NNP આરાધ્ય\JJ દેવીમાતા\N_NN દંતેશ્વરીનું\N-NNP મંદિર\N_NN છે\V_VAUX  .\RD_PUNC
+htd304	મંદિરની\N_NN સાથે\PSP  દશેરા\N-NNP  વખતે\N_NN ચાલનારો\V_VM વિશાળ\JJ રથ\N_NN પણ\CC_CCD એના\PR_PRL દરવાજા\N_NN પર\PSP જોઈ\V_VM શકાય\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd305	દંતેશ્વરીમંદિરની\N-NNP સામે\N_NST બસ્તરના\N-NNP કાકતીય\N-NNP વંશના\N_NN અંતિમ\N_NST મહારાજા\N_NN પ્રવીરચંદ્ર\N-NNP ભંજદેવની\N-NNP પ્રતિમા\N_NN બસ્તરનિવાસીઓની\JJ આસ્થાનું\N_NN પ્રતીક\N_NN છે\V_VAUX  .\RD_PUNC
+htd306	ધરમપુરા\N-NNP રોડ\N_NN પર\PSP ભગવાન\N_NN બાલાજીનું\N-NNP ભવ્ય\JJ મંદિર\N_NN છે\V_VAUX  .\RD_PUNC
+htd307	ધરમપુરા\N-NNP રોડના\N_NN બાલાજીના\N-NNP મંદિરમાં\N_NN તે\DM_DMR પ્રદેશમાં\N_NN જ\RP_RPD નહિ\RP_NEG પરંતુ\CC_CCD દેશના\N_NN અન્ય\QT_QTF ભાગોમાંથી\N_NN પણ\N_NN શ્રદ્ધાળુ\N_NN દર્શન\N_NN કરવા\V_VM આવે\V_VM_VF છે\V_VAUX  .\RD_PUNC
+htd308	કેરળપ્રદેશ\N-NNP પર્યટકોમાં\N_NN ખૂબજ\RP_INTF લોકપ્રિય\JJ છે\V_VAUX  .\RD_PUNC
+htd309	આથી\CC_CCD કેરળને\N-NNP  ગોડ્સ\N-NNP ઑન\N-NNP કન્ટ્રી\N-NNP એટલેકે\CC_CCD ભગવાનનું\N_NN પોતાનું\PR_PRF ઘર\N_NN નામથી\N_NN ઓળખવામાં\V_VM આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd310	કેરળમાં\N-NNP અનેક\QT_QTF પ્રકારના\N_NN જોવાલાયક\JJ સ્થળ\N_NN છે\V_VAUX  .\RD_PUNC
+htd311	કેરળના\N-NNP મુખ્ય\JJ જોવાલાયક\JJ સ્થળોમાં\N_NN મુખ્ય\JJ છે-\V_VM પર્વતના\N_NN ખીણપ્રદેશો\N_NN ,\RD_PUNC સમુદ્રકાંઠાના\N_NN પ્રદેશો\N-NNP ,\RD_PUNC જંગલો\N_NN ,\RD_PUNC યાત્રાધામો\N_NN વગેરે\RP_RPD .\RD_PUNC
+htd312	આ\DM_DMD સ્થળોએ\N_NN દેશ\N_NN વિદેશથી\N_NN અસંખ્ય\QT_QTF પર્યટકો\N_NN ફરવા\V_VM માટે\PSP આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd313	મુન્નાર\N-NNP ,\RD_PUNC નેલ્લિયાંપતિ\N-NNP ,\RD_PUNC પોન્મુટિ\N-NNP વગેરે\RP_RPD પર્વતીય\JJ પ્રદેશો\N_NN કોવલમ\N-NNP ,\RD_PUNC વર્કલા\N-NNP ,\RD_PUNC ચેરાયિ\N-NNP વગેરે\RP_RPD સમુદ્રકિનારા\N_NN ,\RD_PUNC પેરિયાર\N-NNP ,\RD_PUNC ઇરવિકુળમ\N-NNP વગેરે\RP_RPD અભયારણ્યો\N-NN ,\RD_PUNC કોલ્લમ\N-NNP ,\RD_PUNC અલપ્પુષા\N-NNP ,\RD_PUNC કોટ્ટયમ\N-NNP ,\RD_PUNC એરણાકુળમ\N-NNP વગેરે\RP_RPD સરોવરપ્રધાન\JJ ક્ષેત્રો\N_NN વગેરે\RP_RPD પર્યટકો\N_NN માટે\PSP આકર્ષણનું\N_NN કેન્દ્ર\N_NN છે\V_VAUX  .\RD_PUNC
+htd314	ભારતીય\JJ તબીબીપદ્ધતિ\N_NN આયુર્વેદનું\N_NN પણ\CC_CCD પર્યટનક્ષેત્રમાં\N_NN મહત્ત્વનું\N_NN યોગદાન\N_NN છે\V_VAUX  .\RD_PUNC
+htd315	રાજ્યની\N_NN આર્થિક\JJ વ્યવસ્થામાં\N_NN પણ\CC_CCD પર્યટનવિભાગે\N_NN નિર્ણાયાત્મક\JJ ભૂમિકા\N_NN બજાવી\V_VM છે\V_VAUX  .\RD_PUNC
+htd316	ભારતના\N-NNP કેન્દ્રશાસિત\JJ પ્રદેશોમાં\N_NN દમણ\N-NNP અને\CC_CCD દીવ\N-NNP પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd317	અરબસાગરની\N-NNP અપાર\JJ અગાઘ\JJ જળસમૃદ્ધિએ\N_NN એને\PR_PRL વ્યાપાર\N_NN અને\CC_CCD પર્યટનનું\N_NN મુખ્ય\JJ કેન્દ્ર\N_NN બનાવી\V_VM દીધું\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd318	દમણ\N-NNP અને\CC_CCD દીવમાં\N-NNP ખૂબ\QT_QTC નાના\JJ નાના\JJ દ્વીપ\N_NNછે\V_VAUX ,\RD_PUNC
+htd319	પ્રાકૃતિક\JJ સૌંદર્ય\N_NN ,\RD_PUNC વિવિધ\JJ સંસ્કૃતિઓના\N_NN મેળા\N_NN તથા\CC_CCD સુંદર\JJ સમુદ્રતટોએ\N_NN દમણ\N-NNP અને\CC_CCD દીવને\N-NNP અદભૂત\JJ સૌંદર્યની\N_NN કૃપા\N_NN કરી\V_VM છે\V_VAUX  .\RD_PUNC
+htd320	ગુજરાત\N-NNP અને\CC_CCD મહારાષ્ટ્રરાજ્ય\N-NNP નજીક\N_NST હોવાથી\V_VM અહીંના\N_NST પર્યટનવિભાગને\N_NN વિકસવા\V_VM માટેની\PSP તક\N_NN મળી\V_VM .\RD_PUNC
+htd321	ઘણાં\QT_QTF સમય\N_NN સુધી\RP_RPD દમણ\N-NNP અને\CC_CCD દીવ\N-NNP પર\PSP પોર્ટુગીઝોનું\N-NNP શાસન\N_NN હતું\V_VM .\RD_PUNC
+htd322	ત્યારબાદ\N_NST પોર્ટુગીઝોથી\N_NST આઝાદ\JJ કરાવીને\V_VM દમણ\N-NNP અને\CC_CCD દીવને\N-NNP ગોવા\N-NNP સાથે\PSP જોડી\V_VM દેવામાં\V_VM આવ્યું\V_VM .\RD_PUNC
+htd323	ઈ.સ.\N_NN દમણ\N-NNP અને\CC_CCD દીવને\N-NNP એક\QT_QTC અલગ\JJ કેન્દ્રશાસિત\JJ પ્રદેશ\N_NN તરીકે\PSP સ્થાન\N_NN આપવામાં\V_VM આવ્યું\V_VAUX .\RD_PUNC
+htd324	ભારતના\N-NNP મુખ્ય\JJ વ્યાવસાયિક\JJ કેન્દ્ર\N_NN મુંબઈથી\N-NNP દમણનું\N-NNP અંતર\N_NN લગભગ\RP_RPD કિલોમીટર\N_NN છે\V_VAUX  .\RD_PUNC
+htd325	દમણ\N-NNP પૂર્વમાં\N_NST ગુજરાત\N-NNP રાજ્ય\N_NN અને\CC_CCD પશ્ચિમમાં\N_NST અરબસાગર\N-NNP સાથે\PSP જોડાયેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd326	દમણની\N-NNP ઉત્તરે\N_NST  કોલાક\N-NNP  અને\CC_CCD દક્ષિણે\N_NST  કલાઈ\N-NNP  નદી\N_NN છે\V_VAUX  .\RD_PUNC
+htd327	દમણનો\N-NNP પડોશી\JJ જિલ્લો\N_NN ગુજરાતનો\N-NNP વલસાડ\N-NNP જિલ્લો\N_NN છે\V_VAUX  .\RD_PUNC
+htd328	દીવ\N-NNP ભારતનો\N-NNP એક\QT_QTC એવો\RP_RPD દ્વીપ\N_NN છે\V_VAUX ,\RD_PUNC જે\PR_PRL બે\N_NN પૂલો\N_NN દ્વારા\PSP જોડાયેલો\V_VM છે\V_VAUX  .\RD_PUNC
+htd329	દીવ\N-NNP ગુજરાતના\N-NNP જૂનાગઢ\N-NNP જિલ્લા\N_NN સાથે\PSP જોડાયેલું\V_VM છે\V_VAUX  .\RD_PUNC
+htd330	દમણ\N-NNP બે\QT_QTC ભાગમાં\N_NN  મોટી\N-NNP દમણ\N-NNP  અને\CC_CCD  નાની\N-NNP દમણમાં\N-NNP   વિભાજીત\JJ છે\V_VAUX  .\RD_PUNC
+htd331	દમણના\N-NNP બે\QT_QTC ભાગને\N_NN જુદા\JJ કરનારી\V_VM નદી\N_NN દમણગંગા\N-NNP છે\V_VAUX  .\RD_PUNC
+htd332	મોટી\JJ દમણમાં\N-NNP ઘણાં\QT_QTF જૂના\JJ દેવળ\N_NN છે\V_VAUX ,\RD_PUNC જેમાં\PR_PRL મુખ્ય\JJ દેવળ\N_NN  કૈથેડરલ\N-NNP બોલ\N-NNP જેસૂ\N-NNP  છે\V_VAUX  .\RD_PUNC
+htd333	દમણના\N-NNP દેવળની\N-NNP દિવાલો\N_NN પર\PSP કરવામાં\V_VM આવેલું\V_VM ઈશુ\N-NNP ખ્રિસ્તના\N-NNP જીવન\N_NN સંબધિત\JJ ચિત્રકામ\N_NN અને\CC_CCD લાકડાનું\N_NN સુંદર\JJ નકશીકામ\N_NN પર્યટકોને\N_NN અહીં\N_NST આવવા\V_VM આકર્ષે\V_VM છે\V_VAUX  .\RD_PUNC
+htd334	નાની\JJ દમણનું\N-NNP મુખ્ય\JJ આકર્ષણ\N_NN સંત\N_NN જૈરોમનો\N-NNP કિલ્લો\N_NN છે\V_VAUX  .\RD_PUNC
+htd335	દમણનો\N-NNP જૈરોમકિલ્લો\N-NNP મોગલોના\N_NN આક્રમણથી\N_NN બચવા\V_VM માટે\PSP બનાવવામાં\V_VM આવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+htd336	આ\PR_PRP ઉપરાંત\RP_RPD દમણના\N-NNP અન્ય\QT_QTF પર્યટન\N_NN સ્થળોમાં\N_NN બોમ\N-NNP જીસસ\N-NNP દેવળ\N_NN ,\RD_PUNC અવર\N-NNP લેડી\N-NNP ઑફ\N-NNP સી\N-NNP દેવળ\N_NN ,\RD_PUNC અવર\N-NNP લેડી\N-NNP ઑફ\N-NNP રેમીડિયોજ\N-NNP દેવળ\N_NNP ,\RD_PUNC પરગોલા\N-NNP ગાર્ડન\N_NNP ,\RD_PUNC અમ્યૂઝમેન્ટ\N-NNP પાર્ક\N_NNP ,\RD_PUNC દમણગંગા\N-NNP ટૂરિસ્ટ\N-NNP કોમ્પલેકસ\N_NN ,\RD_PUNC કાચીગામN-NNP ,\RD_PUNC\ સત્યસાગર\N_NNP ઉદ્યાન\N_NNP ,\RD_PUNC મિરાસોલ\N-NNP ગાર્ડન\N_NNP ,\RD_PUNC મિરાસોલ\N-NNP વોટર\N-NNP પાર્ક\N_NNP વગેરે\RP_RPD છે\V_VAUX  .\RD_PUNC
+htd337	દમણની\N-NNP જમીનને\N_NN સ્પર્શતા\V_VM અરબસાગરે\N-NNP દમણને\N-NNP અપ્રતિમ\JJ પ્રાકૃતિક\V_VM સોંદર્ય\N_NN અને\CC_CCD હરિયાળી\N_NN આપી\V_VM છે\V_VAUX  .\RD_PUNC
+htd338	દમણમાં\N-NNP બે\QT_QTC બીચ\N_NN દેવિકા\N-NNP અને\CC_CCD જૈમપોરે\N-NNP છે\V_VAUX  .\RD_PUNC
+htd339	દેવિકાબીચ\N-NNP દમણથી\N-NNP પાંચ\QT_QTC કિલોમીટર\N_NN ઉત્તરમાં\N_NST છે\V_VAUX  .\RD_PUNC
+htd340	દેવિકાબીચ\N-NNP બાળકોને\N_NN ખૂબ\QT_QTC જ\RP_RPD આકર્ષે\V_VM છે\V_VAUX કારણકે\CC_CCD અહીં\N_NST બાળકો\N_NN માટે\PSP પાર્ક\N_NN અને\CC_CCD અન્ય\QT_QTF સુવિધાઓ\N_NN છે\V_VAUX  .\RD_PUNC
+htd341	નાની\JJ દમણમાં\N-NNP આવેલ\V_VM જૈમપોરેબીચ\N-NNP દમણનું\N-NNP જાણીતું\V_VM પ્રવાસસ્થળ\N_NN પણ\CC_CCD છે\V_VAUX  .\RD_PUNC
+htd342	જૈમપોરે\N-NNP બીચનું\N_NN શાંત\JJ વાતાવરણ\N_NN પ્રેમીઓને\N_NN આકર્ષે\V_VM છે\V_VAUX  .\RD_PUNC
+htd343	જૈમપોરે\N-NNP બીચના\N_NN શાંત\JJ વાતાવરણને\N_NN કારણે\N_NN મોટાભાગના\QT_QTF પ્રેમીપંખીડાં\N_NN અહીં\N_NST સ્વચ્છંદતાની\N_NN શોધમાં\N_NN આવે\V_VM છે\V_VAUX  .\RD_PUNC
+htd344	તરવા\V_VM માટેનું\PSP જૈમપોરે\N-NNP બીચ\N_NN ખૂબ\QT_QTC જ\RP_RPD સારું\JJ સ્થળ\N_NN છે\V_VAUX  .\RD_PUNC
+htd345	શું\PR_PRQછે\V_VAUX દીવમાં\N-NNP .\RD_PUNC
+htd346	સેન્ટપોલ\N-NNP દેવળ\N_NNP ,\RD_PUNC દીવકિલ્લો\N-NNP ,\RD_PUNC પનીકોટાકિલ્લો\N-NNP ,\RD_PUNC ઘોઘલાબીચ\N-NNP ,\RD_PUNC ચિલ્ડ્રન\N-NNP પાર્ક\N_NN અને\CC_CCD સમરહાઉસ\N-NNP દીવના\N-NNP મુખ્ય\JJ પર્યટન\N_NN સ્થળ\N_NN છે\V_VAUX  .\RD_PUNC
+htd347	નગોઆબીચ\N-NNP દીવનો\N-NNP અત્યંત\RP_INTF સુંદર\JJ બીચ\N_NN છે\V_VAUX  .\RD_PUNChtd997	ભારતના\N-NNP રાજા\N_NN અને\CC_CCD બ્રિટિશ\N-NNP શાસક\N_NN બધા\PR_PRP રવિ\N-NNP વર્મા\N-NNP પાસેથી\PSP ચિત્ર\N_NN બનાવવા\V_VM માટે\PSP અત્યંત\RP_INTF લાલચી\JJ રહેતા\V_VM હતા\V_VAUX  .\RD_PUNC
+htd998	રાજમહેલનું\N_NN પ્રવેશદ્વાર\N_NN રાજા\N_NN રવિ\N-NNP વર્માની\N-NNP ચિત્રશાળા\N_NN આર્ટ\N-NNP ગેલેરી\N-NNP તરફ\PSP ખુલે\V_VM છે\V_VAUX  .\RD_PUNC
+htd999	રાજમહેલના\N_NN પ્રવેશદ્વાર\N_NN પર\PSP બેસીને\V_VM રાજા\N_NN રવિ\N-NNP વર્મા\N-NNP ચિત્રરચના\N_NN કરતા\V_VM હતા\V_VAUX  .\RD_PUNC
+htd1000	આ\DM_DMD જ\RP_RPD સ્ટુડિયોમાં\N_NN એમની\PR_PRL રચનાઓની\N_NN પ્રતો\N_NN સુરક્ષિત\JJ રાખવામાં\V_VM આવી\V_VAUX છે\V_VAUX  .\RD_PUNC
+htd1	પેટ\N-NN દુખે\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+htd1	ખંજવાળ\N-NN
+htd1	ત્વચા\N-NN ચકામા\N_NN
+htd1	ત્વચા\N-NN ફાટી\N-NN જવી\N-NN
+htd1	છીંક\N-NN
+htd1	ધ્રુજારી\N-NN
+htd1	ઠંડી\N_NN					
+htd1	સાંધાનો\N-NN દુખાવો\N_NN
+htd1	પેટ\N-NN પીડા\N-NN
+htd1	એસિડિટી\N-NN
+htd1	જીભ\N-NN અલ્સર\N-NN
+htd1	સ્નાયુઓનો\N-NN બગાડ\N-NN
+htd1	ઉલટી\N-NN
+htd1	થાક\N-NN					
+htd1	વજન\N-NN વધારો\N-NN
+htd1	હાથપગ\N-NN
+htd1	વજનમાં\N-NN ઘટાડો\N-NN
+htd1	બેચેની\N-NN   				
+htd1	સુસ્તી\N-NN
+htd1	ગળામાં\N-NN પેચો\N_NN
+htd1	સુગર\N_NN
+htd1	વધારે\N_NN તાવ\N_NN					
+htd1	ડૂબી\N_NN આંખો\N_NN
+htd1	શ્વાસ\N_NN
+htd1	પરસેવો\N_NN					
+htd1	શરીર\N_NN પાણી\N_NN
+htd1	અપચો\N_NN
+htd1	માથાનો\N_NN દુખાવો\N_NN
+htd1	પીળી\N_NN ત્વચા\N_NN
+htd1	શ્યામ\N_NN યુરિન\N_NN
+htd1	ઉબકા\N_NN
+htd1	ભૂખ\N_NN લાગવી\N_NN
+htd1 	ચિંતા\N_NN
+htd1 	મિજાજ\N_NN માં\N_NN બદલાવ\N_NN
+htd1	ખાંસી\N_NN
+htd1	આંખો\N_NN પાછળ\N_NN દુખાવો\N_NN
+htd1	પીઠનો\N_NN દુખાવો\N_NN
+htd1	કબજિયાત\N_NN
+htd1	પેટનો\N_NN દુખાવો\N_NN
+htd1	ઝાડા\N_NN
+htd1	હળવો\N_NN તાવ\N_NN
+htd1	પીળો\N_NN પેશાબ\N_NN
+htd1	આંખો\N_NN પીળી\N_NN
+htd1	તીવ્ર\N_NN યકૃત\N_NN નિષ્ફળતા\N_NN
+htd1	પ્રવાહી\N_NN વધારે\N_NN
+htd1	પેટમાં\N_NN સોજો\N_NN
+htd1	લસિકા\N_NN પર\N_NN સોજો\N_NN
+htd1	અસ્વસ્થતા\N_NN
+htd1	અસ્પષ્ટ\N_NN અને\N_NN વિકૃત\N_NN દ્રષ્ટિ\N_NN
+htd1	કફ\N_NN
+htd1	ગળામાં\N_NN ખંજવાળ\N_NN
+htd1	લાલાશ\N_NN આંખો\N_NN
+htd1	સાઇનસ\N_NN દબાણ\N_NN
+htd1	વહેતું\N_NN નાક\N_NN
+htd1	સર્દીવાળું\N_NN નાક\N_NN
+htd1	છાતીનો\N_NN દુખાવો\N_NN
+htd1	અંગોમાં\N_NN નબળાઇ\N_NN
+htd1	ઝડપી\N_NN ધબકારા\N_NN
+htd1	આંતરડાની\N_NN હિલચાલ\N_NN દરમિયાન\N_NN પીડા\N_NN
+htd1	લોહિયાળ\N_NN સ્ટૂલ\N_NN
+htd1	ગુદામાં\N_NN ખંજવાળ\N_NN    
+htd1	ગરદનમાં\N_NN પીડા\N_NN
+htd1	ચક્કર\N_NN
+htd1	ખેંચાણ\N_NN
+htd1	ઉઝરડો\N_NN
+htd1	સ્થૂળતા\N_NN
+htd1	પગમાં\N_NN સોજો\N_NN
+htd1	રક્તવાહિનીઓમાં\N_NN સોજો\N_NN
+htd1	મોટું\N_NN થાઇરોઇડ\N_NN
+htd1	બરડ\N_NN નખ\N_NN
+htd1	હાથપગમાં\N_NN સોજો\N_NN
+htd1	અતિશય\N_NN ભૂખ\N_NN
+htd1	વધારાના\N_NN વૈવાહિક\N_NN સંપર્કો\N_NN
+htd1	સૂકવણી\N_NN અને\N_NN કળતર\N_NN હોઠ\N_NN
+htd1	અસ્પષ્ટ\N_NN બોલી\N_NN
+htd1	ઘૂંટણની\N_NN પીડા\N_NN
+htd1	હિપ\N_NN સાંધાનો\N_NN દુખાવો\N_NN
+htd1	સ્નાયુની\N_NN નબળાઇ\N_NN
+htd1	સખત\N_NN ગરદન\N_NN               
+htd1	સાંધામાં\N_NN સોજો\N_NN
+htd1	શરીર\N_NN જકડાઈ\N_NN જવું\N_NN
+htd1	ચક્કર\N_NN આવવા\N_NN
+htd1	સંતુલન\N_NN ગુમાવવું\N_NN
+htd1	અસ્થિરતા\N_NN
+htd1	એક\N_NN શરીરની\N_NN બાજુની\N_NN નબળાઇ\N_NN
+htd1	મૂત્રાશયની\N_NN અગવડતા\N_NN
+htd1	પેશાબની\N_NN ગંધ\N_NN
+htd1	પેશાબ\N_NN સતત\N_NN લાગણી\N_NN        
+htd1	વાયુઓ\N_NN પસાર\N_NN
+htd1	આંતરિક\N_NN ખંજવાળ\N_NN
+htd1	ઝેરી\N_NN દેખાવ\N_NN
+htd1	હતાશા\N_NN
+htd1	ચીડિયાપણું\N_NN
+htd1	સ્નાયુ\N_NN પીડા\N_NN
+htd1	બદલાયેલ\N_NN સેન્સરિયમ\N_NN
+htd1	શરીર\N_NN પર\N_NN લાલ\N_NN ફોલ્લીઓ\N_NN
+htd1	પેટમાં\N_NN દુખાવો\N_NN
+htd1	અસામાન્ય\N_NN માસિક\N_NN સ્રાવ\N_NN
+htd1	ડિસ્ક્રોમિક\N_NN પેચો\N_NN
+htd1	આંખોમાંથી\N_NN પાણી\N_NN નીકળવું\N_NN
+htd1	ભૂખ\N_NN વધારો\N_NN
+htd1	પોલિરીઆ\N_NN
+htd1	પારિવારિક\N_NN ઇતિહાસ\N_NN
+htd1	મ્યુકોઇડ\N_NN ગળફામાં\N_NN
+htd1	કાટવાળું\N_NN ગળફામાં\N_NN
+htd1	એકાગ્રતા\N_NN અભાવ\N_NN
+htd1	દ્રશ્ય\N_NN વિક્ષેપ\N_NN
+htd1	લોહી\N_NN સંક્રામણ\N_NN 
+htd1	અનસર્ટિલ\N_NN ઇન્જેક્શન પ્રાપ્ત\N_NN
+htd1	કોમા\N_NN
+htd1	પેટ\N_NN રક્તસ્ત્રાવ\N_NN
+htd1	પેટનો\N_NN વિક્ષેપ\N_NN
+htd1	દારૂ\N_NN પીવાના\N_NN ઇતિહાસ\N_NN
+htd1	પ્રવાહી\N_NN ઓવરલોડ\N_NN
+htd1	ગળફામાં\N_NN લોહી\N_NN
+htd1	વાછરડા\N_NN પર\N_NN અગ્રણી\N_NN નસો\N_NN
+htd1	ધબકારા\N_NN
+htd1	પીડાદાયક\N_NN ચાલવું\N_NN
+htd1	પરુ\N_NN ભરેલું\N_NN ખીલ\N_NN
+htd1	કાળા\N_NN જખમ\N_NN
+htd1	ચામડી\N_NN ઉખડવી\N_NN
+htd1	નખ\N_NN માં\N_NN ખાડા\N_NN પાડવા\N_NN
+htd1	નખમાં\N_NN બળતરા\N_NN
+htd1	માથું\N_NN
+htd1	થાક\N_NN
+htd1	ફોલ્લો\N_NN
+htd1	નાક\N_NN આસપાસ\N_NN લાલ\N_NN ચાંદા\N_NN
+htd1	પીળો\N_NN પોપડો\N_NN
+htd1	આઈ\JJ રહ્યો\V_VAUX જેવુ\JJ લાગતી\V_VAUX_VNP બદલાવ\N_NN
+htd1	પેરોમિઝલ\N_NN પોઝિશનલ\N_NN વર્ટિગો\N_NN
+htd1	અછબડાં\N_NN અસ્થિવા\N_NN આધાશીશી\N_NN આલ્કોહોલિક\N_NN હીપેટાઇટિસ\N_NN
+htd1	ઇમ્પેટીગો\N_NN એડ્સ\N_NN એલર્જી\N_NN કમળો\N_NN
+htd1	કાયમ\N_NN અતિશય\N_NN ફૂલેલી\N_NN નસો\N_NN
+htd1	ક્રોનિક\N_NN કોલેસ્ટિસિસ\N_NN
+htd1	ક્ષય\N_NN રોગ\N_NN
+htd1	ખીલ\N_NN
+htd1	ગેસ્ટ્રોએન્ટેરાઇટિસ\N_NN
+htd1	ગેસ્ટ્રોએસોફેજલ\N_NN રિફ્લક્સ રોગ\N_NN
+htd1	ટાઇફોઇડ\N_NN
+htd1	ડાયાબિટીસ\N_NN
+htd1	ડેન્ગ્યુ\N_NN
+htd1	ડ્રગ\N_NN રિએક્શન\N_NN
+htd1	ડ્રગ\N_NN રિએક્શન\N_NN
+htd1	ન્યુમોનિયા\N_NN
+htd1	પેપ્ટીક\N_NN અલ્સર\N_NN
+htd1	પેશાબની\N_NN નળીઓનો\N_NN વિસ્તાર ચેપ
+htd1	ફંગલ\N_NN
+htd1	મેલેરિયા\N_NN
+htd1	લકવો\N_NN
+htd1	શ્વાસનળી\N_NN અસ્થમા\N_NN
+htd1	સંધિવા\N_NN
+htd1	સર્વાઇકલ\N_NN સ્પોન્ડિલોસિસ\N_NN
+htd1	સોરિયાસીસ\N_NN
+htd1	હરસ\N_NN દરદ\N_NN
+htd1	હાઈપોગ્લાયકેમિઆ\N_NN
+htd1	હાયપરટેન્શન\N_NN
+htd1	હાયપરથાઇરોઇડિઝમ\N_NN
