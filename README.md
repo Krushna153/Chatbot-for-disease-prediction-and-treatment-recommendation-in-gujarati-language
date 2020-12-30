@@ -36,5 +36,9 @@ The real benefit of this chatbot is to provide **સલાહ** (advice) and **�
 The user can enter statement like: **મને માથુ દુખે છે** or **માથુ દુખવુ** or the user can also enter two or more symptoms at a time like **મને માથુ દુખે છે, પેટ માં
 દુખે છે.**
 Once the user enters the symptoms, then our bot will display all the diseases related to those symptoms.
-So our bot asks the user about the other symptoms based on the given symptoms and based on the users’ answers, it will predict a disease along with the probability
-of having a disease.
+So our bot asks the user about the other symptoms based on the given symptoms and based on the users’ answers, it will predict a disease along with the probability of having a disease.
+
+
+Now, if the user wants to know the information about any disease, then he/she has to give input the name of disease starting with ‘રોગ ’ followed by the name of the disease. Then, the chatbot will display the details of that disease like, **વર્ણન**(Description), **લક્ષણો**(Reasons: why the diseasse is caused), **ઘરેલું ઉપાય**(Home Remedies), **સારવાર**(Treatment).\
+For example, if the user enters like: **‘રોગ ડેન્ગ્યુ, ટાઈફોઈડ વિષે હું જાણવા માંગુ છું’** then, the medibot gives the **વર્ણન**, **લક્ષણો**,  **ઘરેલું ઉપાય**, and **સારવાર** about ડેન્ગ્યુ, and ‘ટાઇફોઇડ’.
+
