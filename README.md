@@ -1,7 +1,7 @@
-# Chatbot-for-disease-prediction-and-treatment-recommendation-in-gujarati-language
+# Chatbot for disease prediction and treatment recommendation in gujarati language
 
 
-A Chatbot predicts the probability of having a disease from the given symptoms in Gujarati Language and also provides an additional information to the user like, it's causes, treatments, Home Remedies and Description of Disease.
+A Chatbot predicts the probability of having a disease from the given symptoms in Gujarati Language and also provides an additional information to the user like, it's causes, treatments, Home Remedies and Description of the disease.
 
 
 This chatbot in health care has the potential to provide patients with access to immediate medical information and recommend diagnoses at the first sign of illness.
@@ -41,8 +41,7 @@ So our bot asks the user about the other symptoms based on the given symptoms an
 
 Now, if the user wants to know the information about any disease, then he/she has to give input the name of disease starting with ‘રોગ ’ followed by the name of the disease. Then, the chatbot will display the details of that disease like, **વર્ણન**(Description), **લક્ષણો**(Reasons: why the diseasse is caused), **ઘરેલું ઉપાય**(Home Remedies), **સારવાર**(Treatment).\
 
-For example, if the user enters like: **‘રોગ ડેન્ગ્યુ, ટાઈફોઈડ વિષે હું જાણવા માંગુ છું’** then, the medibot gives the **વર્ણન**, **લક્ષણો**,  **ઘરેલું ઉપાય**, and **સારવાર** about ડેન્ગ્યુ, and ‘ટાઇફોઇડ’ diseases. 
+For example, if the user enters like: **‘રોગ ડેન્ગ્યુ, ટાઈફોઈડ વિષે હું જાણવા માંગુ છું’** then, the medibot gives the **વર્ણન**, **લક્ષણો**,  **ઘરેલું ઉપાય**, and **સારવાર** about **‘ડેન્ગ્યુ’**, and **‘ટાઇફોઇડ’** diseases. 
 
 
 **Note:** User can write as many symptoms he/she want in a single line, but seperated by comma(,) only in order to get the probability of having a disease and similarly, the user can enter as many diseases he/she want in a single line seperated by comma(,) to know the Causes, Treatments, Home Remedies and Description of those Diseases within a second.
-
