@@ -9,7 +9,7 @@ In rural areas, people are not that much literate and can't afford doctor's cons
 The real benefit of this chatbot is to provide **સલાહ** (advice) and **માહતી** (information) for a healthy life.
 
 
-### Flow of the project
+## Flow of the project
 
 **Step 1** : Take input from the user. (Either Symptoms to know disease or enter disease name to know details of it).\
 **Step 2** : Tokenize the sentence into words.\
